@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>임채윤 공식 사이트</title>
+        <meta charset="utf-8">
+    </head>
+    <body bgcolor="#FFD8D8">
+        <p style="text-align:center">
+            <a href="../index.html"><img src="./photo/home.png" alt="home_banner"></a>
+        </p>
+        <ul>
+            <li><a href="intro.html">소개</a></li>
+            <li><a href="activities.html">활동 내역</a></li>
+            <li><a href="note.html">방명록</a></li>
+        </ul>
+        <h3 style="margin-left:20px">활동 내역</h3>
+        <p>저의 자격증, 수상 경력, 프로젝트 활동 등 저의 개인 활동내역을 정리해놓았습니다.
+            <select name="active_list" id="active_list" style="text-align:center">
+                <option value="default">전체 보기</option>
+                <option value="certificate">전공 자격증</option>
+                <option value="certificate">어학 자격증</option>
+                <option value="certificate">취미 자격증</option>
+                <option value="active">프로젝트 활동</option>
+                <option value="active">인턴 활동</option>
+                <option value="active">대외 활동</option>
+                <option value="active">봉사 활동</option>
+                <option value="active">아르바이트 활동</option>
+                <option value="etc">그 외 포트폴리오</option>
+            </select>
+        </p>
+        <div>
+            <label for="from">시작 날짜</label>
+            <input type="date" id="from">
+            ~
+            <label for="to">끝 날짜</label>
+            <input type="date" id="to">
+            <button>검색</button>
+        </div>
+    </body>
+</html>
