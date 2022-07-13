@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>채윤 공식 사이트</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=1280, initial-scale=1.0">
+    </head>
+    <body>
+        <div id="head" style="background-color:rgb(250, 250, 250); height:150px; width:100%">
+            <div id="head_1" style="background-color:rgb(250, 250, 250); height:20px">
+                <h6><a href="site.html" style="text-decoration-line:none;">각종 사이트</a></h6>
+            </div>
+            <div id="head_2" style="background-color:rgb(250, 250, 250); height:90px;  text-align:center;">
+                <div><a href="index.html"><img src="home_banner.png" alt="home_banner"></a></div>
+            </div>
+            <div id="head_3" style="background-color:rgb(138, 192, 173); height:40px; line-height:40px; text-align:center;">
+                <button><a href="home.html">홈</a></button>
+                <button><a href="intro.html">소개</a></button>
+                <button><a href="active.html">활동</a></button>
+                <button><a href="note.html">방명록</a></button>
+            </div>
+        </div>
+        <div id="body" var="" style="background-color: rgb(250, 250, 250); height:800px; width:100%">
+            <div id="body_1" style="background-color:rgb(200, 200, 200); height:800px; width:15%; float:left;">
+                <div id="body_1_3" style="padding-left:1.5%;">
+                    <h6><img src="icon_email.png" alt="icon_email">email:dlacodbs0627@gmail.com<br>
+                    <img src="icon_kakao.png" alt="icon_kakao">kakao: codbs0627</h6>
+                </div>
+            </div>
+            <div id="body_2" style="background-color:rgb(220, 220, 220); height:800px; width:85%; float:left;">
+                <div id="body_2_1" style="padding-left:4%;padding-top:5%">
+                    <h2>활동 내역</h2>
+                    <p>저의 자격증, 수상 경력, 프로젝트 활동 등 저의 개인 활동내역을 정리해놓았습니다.
+                        <select name="active_list" id="active_list" style="text-align:center">
+                            <option value="default">전체 보기</option>
+                            <option value="certificate">전공 자격증</option>
+                            <option value="certificate">어학 자격증</option>
+                            <option value="certificate">취미 자격증</option>
+                            <option value="active">프로젝트 활동</option>
+                            <option value="active">인턴 활동</option>
+                            <option value="active">대외 활동</option>
+                            <option value="active">봉사 활동</option>
+                            <option value="active">아르바이트 활동</option>
+                            <option value="etc">그 외 포트폴리오</option>
+                        </select>
+                    </p>
+                    <div>
+                        <label for="from">시작 날짜</label>
+                        <input type="date" id="from">
+                        ~
+                        <label for="to">끝 날짜</label>
+                        <input type="date" id="to">
+                        <button>검색</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
