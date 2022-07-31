@@ -3,45 +3,73 @@
     <head>
         <title>채윤 공식 사이트</title>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=1280, initial-scale=1.0">
+        <meta name="viewport" content="initial-scale=1.0">
         <style>
-            a {
-                color:black;
-                text-decoration:none;
-            }
-        </style>
+        @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Gaegu&family=Gowun+Batang&display=swap');
+            body {margin: 0; background-color: rgb(245, 245, 245); font-family: 'Do Hyeon', sans-serif;}
+                .header_container {display: flex; flex-direction: column; flex-wrap: nowrap;}
+                .header_item {margin-top:5px}
+                .header_item:nth-child(1) {padding-left:10px;}
+                .header_item:nth-child(2) {font-family: 'Gaegu', cursive;}
+                .nav_container {display:flex; flex-direction: row; flex-wrap: wrap; justify-content: center;
+                background-color:rgb(138, 192, 173); text-align: center; font-size: 23px;}
+                .nav_item {flex:0 0 70px; padding: 7px;}
+                .main_container {display: flex; flex-direction: row; flex-wrap: nowrap; align-items: stretch;
+                font-family: 'Gowun Batang', serif;}
+                .main_item:nth-child(1) {flex:0 0 15%; background-color:rgb(200, 200, 200);}
+                .main_item:nth-child(2) {flex:0 0 85%; background-color: rgb(220, 220, 220);}
+                .main_item:nth-child(2)>div {margin-left:15px}
+                .footer_container {text-align: center;}
+
+            h1 {margin:0; margin-bottom: 10px; padding: 15px; text-align: center; font-size: 45px;}
+            a {text-decoration:none; color:black;}
+            nav a {color:rgb(245, 245, 245);}
+            header div>a:hover, nav div>a:hover {color:rgb(71, 120, 75);}
+        </style> <!--여기까지 CSS-->
     </head>
     <body>
-        <div id="head" style="background-color:rgb(250, 250, 250); height:150px; width:100%">
-            <div id="head_1" style="background-color:rgb(250, 250, 250); height:20px">
-                <h6><a href="site.html" style="text-decoration-line:none;">각종 사이트</a></h6>
-            </div>
-            <div id="head_2" style="background-color:rgb(250, 250, 250); height:90px;  text-align:center;">
-                <div><a href="index.html"><img src="home_banner.png" alt="home_banner"></a></div>
-            </div>
-            <div id="head_3" style="background-color:rgb(138, 192, 173); height:40px; line-height:40px; text-align:center;">
-                <button><a href="home.html">홈</a></button>
-                <button><a href="intro.html">소개</a></button>
-                <button><a href="active.html">활동</a></button>
-                <button><a href="note.html">방명록</a></button>
-            </div>
-        </div>
-        <div id="body" var="" style="background-color: rgb(250, 250, 250); height:800px; width:100%">
-            <div id="body_1" style="background-color:rgb(200, 200, 200); height:800px; width:15%; float:left;">
-                <div id="body_1_3" style="padding-left:1.5%;">
-                    <h6><img src="icon_email.png" alt="icon_email">email:dlacodbs0627@gmail.com<br>
-                    <img src="icon_kakao.png" alt="icon_kakao">kakao: codbs0627</h6>
+        <header> <!--상단부-->
+            <div class="header_container">
+                <div class="header_item">
+                    <a href="site.html"><b>각종 사이트</b></a>
+                </div>
+                <div class="header_item">
+                    <a href="index.html"><h1>채윤 공식 사이트</h1></a>
                 </div>
             </div>
-            <div id="body_2" style="background-color:rgb(220, 220, 220); height:800px; width:85%; float:left;">
-                <div id="body_2_1" style="padding-left:4%;padding-top:5%">
-                    <h2>메인 화면</h2>
-                    <p style="text-align:center">
-                        <img src="myAvatar.jpg" width="28%" alt="myAvatar" style="margin-right:20px">
-                        <img src="myPhoto.jpg" width="28%" alt="myPhoto">
-                    </p>
+        </header>
+
+        <nav> <!--상단 메뉴-->
+            <div class="nav_container">
+                <div class="nav_item"><a href="home.html">홈</a></div>
+                <div class="nav_item"><a href="intro.html">소개</a></div>
+                <div class="nav_item"><a href="active.html">활동</a></div>
+                <div class="nav_item"><a href="note.html">방명록</a></div>
+            </div>
+        </nav>
+
+        <main> <!--중단부-->
+            <div class="main_container">
+                <div class="main_item">
+                    <ul>
+                        <li>1</li>
+                        <li>2</li>
+                        <li>3</li>
+                    </ul>
+                </div>
+                <div class="main_item">
+                    <div>
+                        <h2>메인 화면</h2>
+                        <img src="myAvatar.jpg" width="28%" alt="myAvatar">
+                    </div>
                 </div>
             </div>
-        </div>
+        </main>
+        <footer> <!--하단부-->
+            <div class="footer_container">
+                <h6><img src="icon_email.png" alt="icon_email">email:dlacodbs0627@gmail.com
+                <img src="icon_kakao.png" alt="icon_kakao">kakao: codbs0627</h6>
+            </div>
+        </footer>
     </body>
 </html>
