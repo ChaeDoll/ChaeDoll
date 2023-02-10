@@ -8,7 +8,7 @@
 > <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/>  
 
 
-📧 : dlacodbs0627@gmail.com
+e-mail : dlacodbs0627@gmail.com
 
 <!--
 **ChaeDoll/ChaeDoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
