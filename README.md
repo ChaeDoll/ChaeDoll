@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi👋 I'm called Chaeyun!
+<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/#000000?style=plastic&logo=naver&logoColor=#03C75A"/></a>
 
 <!--
 **ChaeDoll/ChaeDoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 
