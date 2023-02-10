@@ -1,8 +1,9 @@
-### Hi👋 I'm called Chaeyun!
+### Hi👋
+I'm called Chaeyun!
 
 <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> <a href="https://www.instagram.com/l_imchaeyun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
 
-📖 I’m currently learning 📖  
+### 📖 I’m currently learning 📖  
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
 
 
