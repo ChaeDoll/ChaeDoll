@@ -7,6 +7,9 @@
 ### 📖 I’m currently learning... 
 > <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
 <!--여기는 아이콘 보관소
+Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/>
+Kotlin : <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+C# : <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
 Spring : <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 C : <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
