@@ -4,9 +4,13 @@
 ### 😊 Here is my another Page
 > <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> <a href="https://well-macaroni-835.notion.site/Chaeyun-s-Notion-Home-5ff091ae60df45338a8c090c49ec51d3" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white"/></a> <a href="https://www.instagram.com/l_imchaeyun/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
 
-### 📖 I’m currently learning... 
-> <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
+### 📖 I’m currently learning...  
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
 <!--여기는 아이콘 보관소
+Java : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/>
 Kotlin : <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
 C# : <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
