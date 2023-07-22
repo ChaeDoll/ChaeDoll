@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.bcfcf0ae.js",
-    "static/js/787.9077b1c8.chunk.js": "/static/js/787.9077b1c8.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.bcfcf0ae.js.map": "/static/js/main.bcfcf0ae.js.map",
-    "787.9077b1c8.chunk.js.map": "/static/js/787.9077b1c8.chunk.js.map"
+    "main.css": "/ChaeDoll/page/static/css/main.073c9b0a.css",
+    "main.js": "/ChaeDoll/page/static/js/main.1083f91c.js",
+    "static/js/787.9077b1c8.chunk.js": "/ChaeDoll/page/static/js/787.9077b1c8.chunk.js",
+    "static/media/logo.svg": "/ChaeDoll/page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ChaeDoll/page/index.html",
+    "main.073c9b0a.css.map": "/ChaeDoll/page/static/css/main.073c9b0a.css.map",
+    "main.1083f91c.js.map": "/ChaeDoll/page/static/js/main.1083f91c.js.map",
+    "787.9077b1c8.chunk.js.map": "/ChaeDoll/page/static/js/787.9077b1c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bcfcf0ae.js"
+    "static/js/main.1083f91c.js"
   ]
 }
