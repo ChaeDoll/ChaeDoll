@@ -1,4 +1,4 @@
-### 👋 Hi, Welcome to my Git Page!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+### 👋 Hi, Welcome to my Git Page!!!!!!!!!!!!!!!!!!!  
 > I'm called Chaeyun. Feel free to Look around!   
 
 ### 😊 Here is my another Page
