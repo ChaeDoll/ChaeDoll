@@ -20,7 +20,7 @@ React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=C&lo
 ### 🌱 My Portfolio
 - **My Profile Site : https://chaedoll.github.io/ChaeDoll/page/**  
   순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
-- **CockTell Site : https://chaesogong.github.io/Cocktell/page/**  
+- **CockTell Site : https://cocktellchaesogong.netlify.app/**  
   React.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 
 
