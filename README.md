@@ -5,7 +5,7 @@
   <h3>개발자를 희망하는 '임채윤'입니다. 편안하게 둘러보세요!</h3>   
 </div>  
 
-```
+```java
 class Hello{
   public static void main(String[] args){
     System.out.println("반갑습니다");
