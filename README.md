@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Chaeyun's%20GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=Chaeyun's%20GitHub&fontSize=90" />
 
 <div align=center>
   <h1>🖐️Welcome!</h2>
