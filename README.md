@@ -1,5 +1,5 @@
-## 👋 Hi, Welcome to my Git Page!!!!!!!!!!!
-> I'm called Chaeyun. Feel free to Look around!   
+## 👋 Hi, Welcome to my Git Page
+> 저는 개발자를 희망하는 임채윤입니다. 편안하게 둘러보세요!   
 
 ## 😊 Here is my another Page
 > <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> <a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a>
