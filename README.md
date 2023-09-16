@@ -11,17 +11,22 @@ class Main{
 class Introduce{
   String name;
   String role;
-  String[] skill;
+  String[] skills;
   Introduce(String id){
     if (id === "Chaeyun"){
       this.name = "임채윤"
       this.role = "Developer"
-      this.skill = ["Next.js", "Python", "Java", "HTML", "CSS", "JavaScript"];
+      this.skills = ["Next.js", "Python", "Java", "HTML", "CSS", "JavaScript"];
     }
   }
   void say(){
-    System.out.println("반갑습니다");
+    System.out.println("반갑습니다🖐️");
     System.out.println(role+"를 희망하는 '"+name+"'입니다.");
+    System.out.print("제가 다룰 수 있는 언어는 ");
+    for (String skill : skills) {
+      System.out.print(skill+", ");
+    }
+    System.out.print("입니다.");
     System.out.println("편안하게 둘러보세요!");
   }
 }
