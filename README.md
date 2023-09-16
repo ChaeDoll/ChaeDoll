@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ## 🖐️ Welcome!
 개발자를 희망하는 '임채윤'입니다. 편안하게 둘러보세요!   
 
