@@ -24,7 +24,7 @@ React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=C&lo
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 
 
-### 📫e-mail : dlacodbs0627@gmail.com  
+### 📫EMAIL : dlacodbs0627@gmail.com  
 
 ### MY BAEKJOON STATUS  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
