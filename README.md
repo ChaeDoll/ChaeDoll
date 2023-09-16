@@ -33,11 +33,11 @@ class Introduce{
 ```
 
 ## 📖 Currently Learning...  
-<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
+<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"/>
 <!--여기는 아이콘 보관소
-Java : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/>
-Kotlin : <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+Java : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/>
+Kotlin : <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 C# : <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
 Spring : <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
