@@ -2,10 +2,26 @@
 
 ```java
 // Welcome!!!
-class Hello{
+class Main{
   public static void main(String[] args){
+    Introduce me = Introduce("Chaeyun");
+    me.say();
+  }
+}
+class Introduce{
+  String name;
+  String role;
+  String[] skill;
+  Introduce(String id){
+    if (id === "Chaeyun"){
+      this.name = "임채윤"
+      this.role = "Developer"
+      this.skill = ["Next.js", "Python", "Java", "HTML", "CSS", "JavaScript"];
+    }
+  }
+  void say(){
     System.out.println("반갑습니다");
-    System.out.println("개발자를 희망하는 '임채윤'입니다.");
+    System.out.println(role+"를 희망하는 '"+name+"'입니다.");
     System.out.println("편안하게 둘러보세요!");
   }
 }
