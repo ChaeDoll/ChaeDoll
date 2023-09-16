@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20Chaeyun&fontSize=90" />
 
-<div align=center>🖐️ Welcome!</div>
-개발자를 희망하는 '임채윤'입니다. 편안하게 둘러보세요!   
+<div align=center>
+  <h2>🖐️ Welcome!</h2>
+  <h3>개발자를 희망하는 '임채윤'입니다. 편안하게 둘러보세요!</h3>   
+</div>
 
 ## 📖 Currently learning...  
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
