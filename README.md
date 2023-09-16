@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20Chaeyun&fontSize=90" />
 
-## 🖐️ Welcome!
+<div align=center>🖐️ Welcome!</div>
 개발자를 희망하는 '임채윤'입니다. 편안하게 둘러보세요!   
 
 ## 📖 Currently learning...  
