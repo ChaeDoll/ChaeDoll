@@ -53,11 +53,10 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
 - **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 
-## 📄 My Site
-<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 네이버 블로그  
-<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a> 마이 프로필  
-
-### 📫EMAIL : dlacodbs0627@gmail.com  
+## 📄 Others
+<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> <= 네이버 블로그 링크  
+<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a> <= 마이 프로필 페이지  
+📫EMAIL : dlacodbs0627@gmail.com 
 
 ### MY BAEKJOON STATUS  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
