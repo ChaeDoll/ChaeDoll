@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=Chaeyun's%20GitHub&fontSize=90" />
 
-<div align=center>
-  <h1>🖐️Welcome!</h2>
-  <h3>개발자를 희망하는 '임채윤'입니다. 편안하게 둘러보세요!</h3>   
-</div>  
-
 ```java
 // Welcome!!!
 class Hello{
