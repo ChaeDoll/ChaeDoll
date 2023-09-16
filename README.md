@@ -32,8 +32,8 @@ class Introduce{
 }
 ```
 
-## 📖 Currently learning...  
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
+## 📖 Currently Learning...  
+<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Java : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/>
@@ -51,7 +51,7 @@ React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=C&lo
 - **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 
-## 📄 Other Site
+## 📄 My Site
 - <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a>
 ### 📫EMAIL : dlacodbs0627@gmail.com  
 
