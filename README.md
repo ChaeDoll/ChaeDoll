@@ -44,6 +44,7 @@ Spring : <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Sp
 Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 C : <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
 React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=C&logoColor=black"/>
+Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;
 -->
 
 ## 🌱 My Portfolio
