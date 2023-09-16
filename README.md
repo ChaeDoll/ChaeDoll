@@ -53,12 +53,12 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 
 ## 📄 Others
-- ### My Sites
-<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a>  
-- ### Contact
-📧E-mail : dlacodbs0627@gmail.com 
+- ### My Sites  
+  <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a>  
+- ### Contact  
+  📧E-mail : dlacodbs0627@gmail.com 
 - ### MY BAEKJOON STATUS  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
 
 <!--
 **ChaeDoll/ChaeDoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
