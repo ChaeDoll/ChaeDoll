@@ -58,10 +58,10 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
 <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> <= 네이버 블로그 링크 
 <a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a> <= 마이 프로필 페이지  
 </span>
-📫EMAIL : dlacodbs0627@gmail.com
   
 ### MY BAEKJOON STATUS  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
+📫EMAIL : dlacodbs0627@gmail.com
 
 
 <!--
