@@ -5,7 +5,7 @@
 > <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a>
 
 ## 📖 I’m currently learning...  
-> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
+> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Java : <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=flat&logo=Unity&logoColor=white"/>
