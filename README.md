@@ -26,7 +26,7 @@ React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=C&lo
 
 ### 📫e-mail : dlacodbs0627@gmail.com  
 
-### BAEKJOON  
+### MY BAEKJOON STATUS  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
 
 <!--
