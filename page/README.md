@@ -51,3 +51,7 @@
 ![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/b5b46360-f1bc-4417-b5c5-08ce893bae72)  
 - disqus의 코드를 통해 방명록 기능을 탑재하였다. 로그인 후 방명록을 남길 수 있다.
 
+## 실행 방법
+- 모든 파일을 다운로드 하여 한 폴더에 위치시킨다.
+- index.html 파일을 클릭하여 사이트를 열람한다.
+- 끝
