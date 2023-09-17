@@ -11,6 +11,13 @@
 
 ## 주요 기능
 ### 홈
+- 관련 사이트 소개  
+![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/771dd1e0-b938-4907-89f9-08b44b9e1200)
+- HTML 기초 TIPS  
+![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/6174a291-c1b2-49a2-8636-8ff20d119554)  
+
+
+
 ### 소개
 ### 활동
 ### 방명
