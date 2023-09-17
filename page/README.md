@@ -12,16 +12,11 @@
 ## 주요 기능
 ### 홈
 ![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/5c458786-33c2-4aa9-90e0-6aab56d0fa34)  
-1. 관련 사이트 소개
+<details><summary>1. 관련 사이트 소개</summary></details>
 2. HTML 기초 TIPS
-
-  ### 관련 사이트 소개  
-  <img src="https://github.com/ChaeDoll/ChaeDoll/assets/108540812/771dd1e0-b938-4907-89f9-08b44b9e1200" width="70%">
-  
-  ### HTML 기초 TIPS  
-  <img src="https://github.com/ChaeDoll/ChaeDoll/assets/108540812/6174a291-c1b2-49a2-8636-8ff20d119554" width="70%">
-
-  ### 위로 이동 버튼
+3. 메인 로고
+4. 페이지 메뉴 탭
+5. 위로 이동 버튼
   
 
 
