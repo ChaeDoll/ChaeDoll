@@ -32,8 +32,6 @@
 ### 🤝소개🤝
 ### 🧾활동🧾
 ![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/bb490ca6-5acf-48db-bd7d-9571970cafca)  
-- <b>활동 필터링</b> : 활동 카테고리, 날짜를 설정하고 검색을 눌러 해당 범위의 항목들을 필터링하여 볼 수 있다.
-- <b>활동 데이터</b> : data/data.json에 저장되어 있는 활동데이터를 토대로 필터링을 거친 후 최종적인 아이템들이 블럭으로 나타난다.
 <details>
   <summary><b>활동 필터링</b> : 활동 카테고리, 날짜를 설정하고 검색을 눌러 해당 범위의 항목들을 필터링하여 볼 수 있다.</summary>
 </details>
