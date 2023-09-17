@@ -4,44 +4,9 @@
         <title>채윤 공식 사이트</title>
         <meta charset="utf-8">
         <meta name="viewport" content="initial-scale=1.0">
-        <style>
-            @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Gaegu&family=Gowun+Batang&display=swap');
-                body {margin: 0; background-color: rgb(245, 245, 245); font-family: 'Do Hyeon', sans-serif;}
-                    .header_container {display: flex; flex-direction: column; flex-wrap: nowrap;}
-                    .header_item:nth-child(1) {margin-top:4px; margin-left:10px;}
-                    .header_item:nth-child(2) {font-family: 'Gaegu', cursive; ; margin-bottom:20px; align-self: center;}
-                    .nav_container {display:flex; flex-direction: row; flex-wrap: wrap; justify-content: center;
-                    background-color:rgb(138, 192, 173); text-align: center; font-size: 23px;}
-                    .nav_item {flex:0 0 70px; padding: 7px;}
-                    .main_container {display: flex; flex-direction: row; flex-wrap: nowrap; align-items: stretch;
-                    font-family: 'Gowun Batang', serif;}
-                    .main_item:nth-child(1) {flex:0 0 15%; background-color:rgb(200, 200, 200);}
-                    .main_item:nth-child(2) {flex:0 0 85%; background-color: rgb(220, 220, 220);}
-                    .main_item:nth-child(2)>div {margin:30px}
-                    .footer_container {text-align: center;}
-                    .footer_container .hidden_item {display: none;}
-    
-                h1 {font-size: 45px; display: inline;}
-                a {text-decoration:none; color:black;}
-                nav a {color:rgb(245, 245, 245);}
-                header div>a:hover, nav div>a:hover {color:rgb(71, 120, 75);}
-                .move_top {position:fixed; bottom:15px; right: 10px; width: 70px; height: 70px; overflow: hidden;}
-                .move_top img {object-fit: cover; width: 100%; height: 100%;}
-    
-                @media only screen and (min-device-width:0px) and (max-device-width:480px){
-                    h1 {font-size: 30px;}
-                    .header_item:nth-child(1) {display: none;}
-                    .header_item:nth-child(2) {margin-top: 22px;}
-                    nav {position: sticky; top:0}
-                    .nav_container {font-size: medium;}
-                    .nav_item {flex:0 0 15%}
-                    .main_container {flex-direction: column;}
-                    .footer_container h6 {margin-bottom:0}
-                    .footer_container .hidden_item {font-size: 15px; display:block; margin:15px}
-    
-                    .move_top {width:50px; height: 50px;}
-                }
-            </style> <!--여기까지 CSS-->
+        <link rel="stylesheet" type="text/css" href="global.css" />
+        <script defer type="module" src="active.js"></script>
+        <script defer src="practicelist.js"></script>
     </head>
     <body>
         <header> <!--상단부-->
@@ -54,10 +19,9 @@
                 </div>
             </div>
         </header>
-
         <nav> <!--상단 메뉴-->
             <div class="nav_container">
-                <div class="nav_item"><a href="home.html">홈</a></div>
+                <div class="nav_item"><a href="index.html">홈</a></div>
                 <div class="nav_item"><a href="intro.html">소개</a></div>
                 <div class="nav_item"><a href="active.html" style="color:rgb(71, 120, 75)">활동</a></div>
                 <div class="nav_item"><a href="note.html">방명록</a></div>
@@ -67,38 +31,44 @@
         <main> <!--중단부-->
             <div class="main_container">
                 <div class="main_item">
-                    <ul>
-                        <li>1</li>
-                        <li>2</li>
-                        <li>3</li>
+                    <input id="practice_check" type="checkbox"/>
+                    <label class="practice_text" for="practice_check"><span>HTML 기초 TIPS!</span>
+                    </label>
+                    <ul id="practice_list">
                     </ul>
                 </div>
                 <div class="main_item">
-                    <div>
+                    <div class="activities_content">
                         <h2>활동 내역</h2>
-                        <p>저의 자격증, 수상 경력, 프로젝트 활동 등 저의 개인 활동내역을 정리해놓았습니다.
-                        <select name="active_list" id="active_list" style="text-align:center">
-                            <option value="default">전체 보기</option>
-                            <option value="certificate">전공 자격증</option>
-                            <option value="certificate">어학 자격증</option>
-                            <option value="certificate">취미 자격증</option>
-                            <option value="active">프로젝트 활동</option>
-                            <option value="active">인턴 활동</option>
-                            <option value="active">대외 활동</option>
-                            <option value="active">봉사 활동</option>
-                            <option value="active">아르바이트 활동</option>
-                            <option value="etc">그 외 포트폴리오</option>
-                        </select>
+                        <p>자격증, 수상 경력, 프로젝트 활동 등 개인 활동내역
+                            <select name="active_list" id="active_list" style="text-align:center">
+                                <option value="default">전체 보기</option>
+                                <option value="프로젝트">프로젝트</option>
+                                <option value="수상 경력">수상 경력</option>
+                                <option value="자격증">자격증</option>
+                                <option value="그 외">그 외</option>
+    <!--                             <option value="default">전체 보기</option>
+                                <option value="certificate">자격증</option>
+                                <option value="certificate">어학 자격증</option>
+                                <option value="certificate">취미 자격증</option>
+                                <option value="active">프로젝트 활동</option>
+                                <option value="active">인턴 활동</option>
+                                <option value="active">대외 활동</option>
+                                <option value="active">봉사 활동</option>
+                                <option value="active">아르바이트 활동</option>
+                                <option value="active">그 외 포트폴리오</option> -->
+                            </select>
                         </p>
-                        <div>
-                            <label for="from">시작 날짜</label>
-                            <input type="date" id="from">
-                            ~
-                            <label for="to">끝 날짜</label>
-                            <input type="date" id="to">
-                            <button>검색</button>
-                        </div>
+                        <label for="date_from">시작 날짜</label>
+                        <input type="date" id="date_from" value="2019-01-01">
+                        ~
+                        <label for="date_to">끝 날짜</label>
+                        <input type="date" id="date_to">
+                        <button id="filter_apply">검색</button>
+                        <!-- 검색 결과가 아래에 출력 -->
+                        <div id="active_container"></div>
                     </div>
+                    <!-- <script src="data/data.json"></script> -->
                 </div>
             </div>
             <div class="move_top"> <!--상단으로 이동버튼-->

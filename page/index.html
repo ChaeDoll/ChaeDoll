@@ -4,44 +4,8 @@
         <title>채윤 공식 사이트</title>
         <meta charset="utf-8">
         <meta name="viewport" content="initial-scale=1.0">
-        <style>
-        @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Gaegu&family=Gowun+Batang&display=swap');
-            body {margin: 0; background-color: rgb(245, 245, 245); font-family: 'Do Hyeon', sans-serif;}
-                .header_container {display: flex; flex-direction: column; flex-wrap: nowrap;}
-                .header_item:nth-child(1) {margin-top:4px; margin-left:10px;}
-                .header_item:nth-child(2) {font-family: 'Gaegu', cursive; ; margin-bottom:20px; align-self: center;}
-                .nav_container {display:flex; flex-direction: row; flex-wrap: wrap; justify-content: center;
-                background-color:rgb(138, 192, 173); text-align: center; font-size: 23px;}
-                .nav_item {flex:0 0 70px; padding: 7px;}
-                .main_container {display: flex; flex-direction: row; flex-wrap: nowrap; align-items: stretch;
-                font-family: 'Gowun Batang', serif;}
-                .main_item:nth-child(1) {flex:0 0 15%; background-color:rgb(200, 200, 200);}
-                .main_item:nth-child(2) {flex:0 0 85%; background-color: rgb(220, 220, 220);}
-                .main_item:nth-child(2)>div {margin:30px}
-                .footer_container {text-align: center;}
-                .footer_container .hidden_item {display: none;}
-
-            h1 {font-size: 45px; display: inline;}
-            a {text-decoration:none; color:black;}
-            nav a {color:rgb(245, 245, 245);}
-            header div>a:hover, nav div>a:hover {color:rgb(71, 120, 75);}
-            .move_top {position:fixed; bottom:15px; right: 10px; width: 70px; height: 70px; overflow: hidden;}
-            .move_top img {object-fit: cover; width: 100%; height: 100%;}
-
-            @media only screen and (min-device-width:0px) and (max-device-width:480px){
-                h1 {font-size: 30px;}
-                .header_item:nth-child(1) {display: none;}
-                .header_item:nth-child(2) {margin-top: 22px;}
-                nav {position: sticky; top:0}
-                .nav_container {font-size: medium;}
-                .nav_item {flex:0 0 15%}
-                .main_container {flex-direction: column;}
-                .footer_container h6 {margin-bottom:0}
-                .footer_container .hidden_item {font-size: 15px; display:block; margin:15px}
-
-                .move_top {width:50px; height: 50px;}
-            }
-        </style> <!--여기까지 CSS-->
+        <link rel="stylesheet" type="text/css" href="global.css" />
+        <script defer src="practicelist.js"></script>
     </head>
     <body>
         <header> <!--상단부-->
@@ -57,7 +21,7 @@
 
         <nav> <!--상단 메뉴-->
             <div class="nav_container">
-                <div class="nav_item"><a href="home.html">홈</a></div>
+                <div class="nav_item"><a href="index.html" style="color:rgb(71, 120, 75)">홈</a></div>
                 <div class="nav_item"><a href="intro.html">소개</a></div>
                 <div class="nav_item"><a href="active.html">활동</a></div>
                 <div class="nav_item"><a href="note.html">방명록</a></div>
@@ -67,16 +31,30 @@
         <main> <!--중단부-->
             <div class="main_container">
                 <div class="main_item">
-                    <ul>
-                        <li>1</li>
-                        <li>2</li>
-                        <li>3</li>
+                    <input id="practice_check" type="checkbox"/>
+                    <label class="practice_text" for="practice_check"><span>HTML 기초 TIPS!</span>
+                    </label>
+                    <ul id="practice_list">
                     </ul>
                 </div>
                 <div class="main_item">
                     <div>
                         <h2>메인 화면</h2>
-                        <img src="myAvatar.jpg" width="28%" alt="myAvatar">
+                        <div class="home_content">
+                            <img class="main_avatar_img" src="./resource/myAvatar.png" width="25%" alt="myAvatar">
+                            <span class="home_text">
+                                <h3>반가워요!</h3>
+                                <h5>개발자를 꿈꾸는 임채윤입니다</h5>
+                                <h5>저의 페이지에 오신것을 환영해요👏</h5>
+                                <h5>이 공간은 저의 첫 개인 프로젝트이기도 하는데요,</h5>
+                                <h5>HTML, CSS, JavaScript로 이루어진 이 곳에서</h5>
+                                <h5>저에 대한 간단한 소개와 활동 기록을 확인해보세요😆</h5>
+                                <p class="intro_button">
+                                    <a href="https://github.com/ChaeDoll"><button>깃허브</button></a>
+                                    <a href="https://blog.naver.com/codbs0627"><button>블로그</button></a>
+                                </p>
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
