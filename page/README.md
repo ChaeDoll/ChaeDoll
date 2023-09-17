@@ -10,14 +10,12 @@
   따라서 이 웹사이트는 GitHub Pages를 사용하여 배포되고 있고 누구나 PC, 모바일 브라우저를 통해 컨텐츠를 열람할 수 있다.
 
 ## 주요 기능
-### 홈
-- 관련 사이트 소개  
-<img src="https://github.com/ChaeDoll/ChaeDoll/assets/108540812/771dd1e0-b938-4907-89f9-08b44b9e1200" width="70%">
+- 홈
+  ### 관련 사이트 소개  
+  <img src="https://github.com/ChaeDoll/ChaeDoll/assets/108540812/771dd1e0-b938-4907-89f9-08b44b9e1200" width="70%">
 
-<br>
-
-- HTML 기초 TIPS  
-<img src="https://github.com/ChaeDoll/ChaeDoll/assets/108540812/6174a291-c1b2-49a2-8636-8ff20d119554" width="70%">
+  ### HTML 기초 TIPS  
+  <img src="https://github.com/ChaeDoll/ChaeDoll/assets/108540812/6174a291-c1b2-49a2-8636-8ff20d119554" width="70%">
 
 
 
