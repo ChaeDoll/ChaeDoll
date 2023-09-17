@@ -18,7 +18,7 @@
 <details>
   <summary>HTML 기초 TIPS : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
 </details>
-- 메인 로고 : 메인 로고이다. 클릭 시 메인 홈페이지로 이동한다.  
+<summary>- 메인 로고 : 메인 로고이다. 클릭 시 메인 홈페이지로 이동한다.</summary> 
 <details>
   <summary>페이지 메뉴 탭 : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
 </details>
