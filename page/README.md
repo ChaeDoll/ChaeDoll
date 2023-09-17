@@ -13,19 +13,19 @@
 ### 홈
 ![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/5c458786-33c2-4aa9-90e0-6aab56d0fa34)  
 <details>
-  <summary>관련 사이트 소개 : 나와 관련된 다른 웹사이트를 소개해주는 페이지</summary>
+  <summary><b>관련 사이트 소개</b> : 나와 관련된 다른 웹사이트를 소개해주는 페이지</summary>
 </details>
 <details>
-  <summary>HTML 기초 TIPS : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
+  <summary><b>HTML 기초 TIPS</b> : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
 </details>
 <details>
-  <summary>메인 로고 : 메인 로고이다. 클릭 시 메인 홈페이지로 이동한다.</summary>
+  <summary><b>메인 로고</b> : 메인 로고이다. 클릭 시 메인 홈페이지로 이동한다.</summary>
 </details>
 <details>
-  <summary>페이지 메뉴 탭 : 홈, 소개, 활동, 방명록 4개의 페이지 중 하나를 클릭하여 선택할 수 있다. </summary>
+  <summary><b>페이지 메뉴 탭</b> : 홈, 소개, 활동, 방명록 4개의 페이지 중 하나를 클릭하여 선택할 수 있다. </summary>
 </details>
 <details>
-  <summary>위로 이동 버튼 : 버튼을 클릭하면 페이지의 최상단으로 이동한다.</summary>
+  <summary><b>위로 이동 버튼</b> : 버튼을 클릭하면 페이지의 최상단으로 이동한다.</summary>
 </details>
 
 
