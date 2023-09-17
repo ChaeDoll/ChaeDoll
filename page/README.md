@@ -12,12 +12,21 @@
 ## 주요 기능
 ### 홈
 ![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/5c458786-33c2-4aa9-90e0-6aab56d0fa34)  
-<details><summary>1. 관련 사이트 소개</summary></details>
-2. HTML 기초 TIPS
-3. 메인 로고
-4. 페이지 메뉴 탭
-5. 위로 이동 버튼
-  
+<details>
+  <summary>1. 관련 사이트 소개 : 나와 관련된 다른 웹사이트를 소개해주는 페이지</summary>
+</details>
+<details>
+  <summary>2. HTML 기초 TIPS : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
+</details>
+<details>
+  <summary>3. 메인 로고 : 메인 로고이다. 클릭 시 메인 홈페이지로 이동한다.</summary>
+</details>
+<details>
+  <summary>4. 페이지 메뉴 탭 : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
+</details>
+<details>
+  <summary>5. 위로 이동 버튼 : HTML에 관한 사소한 Tip들이 정리되어 있는 페이지 리스트. 클릭 시 이동한다.</summary>
+</details>
 
 
 ### 소개
