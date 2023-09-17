@@ -28,8 +28,10 @@
   <summary><b>위로 이동 버튼</b> : 버튼을 클릭하면 페이지의 최상단으로 이동한다.</summary>
 </details>
 
-
 ### 🤝소개🤝
+![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/c4335c22-9436-4d4f-9c1e-110c25b255b6)
+- 나에 대한 간단한 소개글과 함께 다른 페이지로 이동하는 버튼이 있다.
+
 ### 🧾활동🧾
 ![image](https://github.com/ChaeDoll/ChaeDoll/assets/108540812/bb490ca6-5acf-48db-bd7d-9571970cafca)  
 <details>
