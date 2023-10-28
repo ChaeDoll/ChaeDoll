@@ -51,6 +51,8 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
   순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
 - **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
+- **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
+  Android Studio / Kotlin 기술을 활용한 사이드 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
 
 ## 📄 Others
 - ### My Sites  
