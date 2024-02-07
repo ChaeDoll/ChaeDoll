@@ -16,7 +16,7 @@ class Introduce{
     if (id === "Chaeyun"){
       this.name = "임채윤"
       this.role = "Developer"
-      this.skills = ["Next.js", "Python", "Android Studio", "HTML", "CSS", "JavaScript"];
+      this.skills = ["JAVA", "Python", "Android Studio", "HTML", "CSS", "JavaScript", "Next.js"];
     }
   }
   void hello(){
@@ -33,7 +33,7 @@ class Introduce{
 ```
 
 ## 📖 Currently Learning...  
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"> &nbsp;<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
 Java : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
