@@ -57,6 +57,8 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
   Android Studio / Kotlin 기술을 활용한 사이드 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
 - **Foreigner Infra Report : https://github.com/ChaeDoll/TeamProject-ForeignerReport**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 팀 프로젝트
+- **Myongji Camp APP : https://github.com/WonPage/MyongjiCamp-FrontEnd**
+  React Native 기반 팀 프로젝트. 명지대 학교 프로젝트 진행/개발하는 학생들을 위한 팀 매칭 앱
 
 ## 📄 Others
 - ### My Sites  
