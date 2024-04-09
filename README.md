@@ -16,7 +16,7 @@ class Introduce{
     if (id === "Chaeyun"){
       this.name = "임채윤"
       this.role = "Developer"
-      this.skills = ["Java", "Python", "Android Studio", "HTML", "CSS", "JavaScript", "Next.js"];
+      this.skills = ["React Native", "Spring", "Python", "Android Studio", "HTML", "CSS", "JavaScript", "Next.js"];
     }
   }
   void hello(){
