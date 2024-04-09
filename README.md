@@ -14,10 +14,10 @@ class Introduce{
   String[] skills;
   Introduce(String id){
     if (id === "Chaeyun"){
-      this.name = "임채윤"
-      this.role = "Developer"
-      this.skills = ["React Native", "Spring", "Python", "Android Studio", "HTML", "CSS", "JavaScript", "Next.js"];
+      this.name = "임채윤";
     }
+    this.role = "Developer";
+    this.skills = ["React Native", "Spring", "Python", "Android Studio", "HTML", "CSS", "JavaScript", "Next.js"];
   }
   void hello(){
     System.out.println("반갑습니다🖐️");
