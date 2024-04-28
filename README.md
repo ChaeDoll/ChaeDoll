@@ -14,10 +14,11 @@ class Introduce{
   String[] skills;
   Introduce(String id){
     if (id === "Chaeyun"){
-      this.name = "임채윤"
-      this.role = "Developer"
-      this.skills = ["Java", "Python", "Android Studio", "HTML", "CSS", "JavaScript", "Next.js"];
+      this.name = "임채윤";
     }
+    this.role = "Developer";
+    this.skills = ["React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"];
+    this.tools = ["Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"];
   }
   void hello(){
     System.out.println("반갑습니다🖐️");
@@ -33,7 +34,7 @@ class Introduce{
 ```
 
 ## 📖 Currently Learning...  
-<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
