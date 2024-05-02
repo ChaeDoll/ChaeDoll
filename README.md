@@ -55,7 +55,7 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
 - **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 - **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
-  Android Studio / Kotlin 기술을 활용한 사이드 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
+  Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
 - **Foreigner Infra Report : https://github.com/ChaeDoll/TeamProject-ForeignerReport**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 팀 프로젝트
 - **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
