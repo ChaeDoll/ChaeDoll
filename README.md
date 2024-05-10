@@ -47,6 +47,7 @@ Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript
 C : <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
 React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;
+WebXR : <img alt="Next.js" src ="https://img.shields.io/badge/WebXR-000000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
 -->
 
 ## 🌱 My Portfolio
