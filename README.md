@@ -16,7 +16,7 @@ class Introduce{
     if (id === "Chaeyun"){
       this.name = "임채윤";
     }
-    this.role = "Developer";
+    this.role = "AR/XR Developer";
     this.skills = ["React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"];
     this.tools = ["Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"];
   }
@@ -34,7 +34,7 @@ class Introduce{
 ```
 
 ## 📖 Currently Learning...  
-<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
@@ -47,6 +47,7 @@ Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript
 C : <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
 React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;
+WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
 -->
 
 ## 🌱 My Portfolio
@@ -55,19 +56,22 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
 - **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 - **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
-  Android Studio / Kotlin 기술을 활용한 사이드 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
+  Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
 - **Foreigner Infra Report : https://github.com/ChaeDoll/TeamProject-ForeignerReport**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 팀 프로젝트
 - **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
-  React Native 기반 팀 프로젝트. 명지대 학교 프로젝트 진행/개발하는 학생들을 위한 팀 매칭 앱
+  React Native, Spring 기반 팀 프로젝트. 명지대 학교 프로젝트 진행/개발하는 학생들을 위한 팀 매칭 앱. Frontend 구현을 맡았다.
 - **Feel Check APP : https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4**  
-  React Native 학교 캡스톤 팀 프로젝트. AI 감정인식 캘린더 (감정일기) 앱
+  React Native, Spring 기반 학교 캡스톤 팀 프로젝트. AI 감정인식 캘린더 (감정일기) 앱. FullStack 구현을 맡았다.
+- **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
+  React 기반 교내 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. Frontend 구현을 맡았다.
 
 ## 📄 Others
 - ### My Sites  
-  <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a>  
+  <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/Profile-06AC38?style=flat&logo=PagerDuty&logoColor=white"/></a> &nbsp;<a href="https://cocktellchaesogong.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CockTell Web Site-E61845?style=flat&logoColor=white"/></a>  
 - ### Contact  
-  📧E-mail : dlacodbs0627@gmail.com 
+  📧E-mail : dlacodbs0627@gmail.com
+  🏫Student E-mail : codbs0627@mju.ac.kr
 - ### MY BAEKJOON STATUS  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
 
