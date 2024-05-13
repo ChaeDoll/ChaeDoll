@@ -2,34 +2,35 @@
 
 ```java
 // Welcome!!!
-class Main{
-  public static void main(String[] args){
-    Introduce me = Introduce("Chaeyun");
-    me.hello();
-  }
+class Main {
+    public static void main(String[] args) {
+        Introduce me = new Introduce("Chaeyun");
+        me.hello();
+    }
 }
 class Introduce{
-  String name;
-  String role;
-  String[] skills;
-  Introduce(String id){
-    if (id === "Chaeyun"){
-      this.name = "임채윤";
+    String name;
+    String role;
+    String[] skills;
+    String[] tools;
+    Introduce(String id){
+        if (id == "Chaeyun"){
+            this.name = "임채윤";
+        }
+        this.role = "AR/XR Developer";
+        this.skills = new String[]{"React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"};
+        this.tools = new String[]{"Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"};
     }
-    this.role = "AR/XR Developer";
-    this.skills = ["React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"];
-    this.tools = ["Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"];
-  }
-  void hello(){
-    System.out.println("반갑습니다🖐️");
-    System.out.println(role+"를 희망하는 '"+name+"'입니다.");
-    System.out.print("제가 다룰 수 있는 언어는 ");
-    for (String skill : skills) {
-      System.out.print(skill+", ");
+    void hello(){
+        System.out.println("반갑습니다🖐️");
+        System.out.println(role+"를 희망하는 '"+name+"'입니다.");
+        System.out.print("제가 다룰 수 있는 언어는 ");
+        for (String skill : skills) {
+            System.out.print(skill+", ");
+        }
+        System.out.print("입니다.");
+        System.out.println("편안하게 둘러보세요!");
     }
-    System.out.print("입니다.");
-    System.out.println("편안하게 둘러보세요!");
-  }
 }
 ```
 
