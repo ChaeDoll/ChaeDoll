@@ -61,11 +61,11 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
 - **Foreigner Infra Report : https://github.com/ChaeDoll/TeamProject-ForeignerReport**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 팀 프로젝트
 - **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
-  React Native, Spring 기반 팀 프로젝트. 명지대 학교 프로젝트 진행/개발하는 학생들을 위한 팀 매칭 앱. Frontend 구현을 맡았다.
+  React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. Frontend 구현을 맡았다.
 - **Feel Check APP : https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4**  
-  React Native, Spring 기반 학교 캡스톤 팀 프로젝트. AI 감정인식 캘린더 (감정일기) 앱. FullStack 구현을 맡았다.
+  React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. FullStack 구현을 맡았다.
 - **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
-  React, nodejs 기반 교내 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. FullStack 구현을 맡았다.
+  React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. FullStack 구현을 맡았다.
 
 ## 📄 Others
 - ### My Sites  
