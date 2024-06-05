@@ -17,7 +17,7 @@ class Introduce{
         if (id == "Chaeyun"){
             this.name = "임채윤";
         }
-        this.role = "AR/XR Developer";
+        this.role = "AR/XR Developer, Full Stack Developer";
         this.skills = new String[]{"React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"};
         this.tools = new String[]{"Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"};
     }
