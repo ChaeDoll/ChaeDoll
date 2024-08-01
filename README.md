@@ -12,19 +12,21 @@ class Introduce{
     String name;
     String role;
     String[] skills;
+    String[] languages;
     String[] tools;
     Introduce(String id){
         if (id == "Chaeyun"){
             this.name = "임채윤";
         }
-        this.role = "AR/XR Developer & Full Stack Developer";
-        this.skills = new String[]{"React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"};
-        this.tools = new String[]{"Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"};
+        this.role = "AR/XR Reseacher & Developer";
+        this.languages = new String[]{"JavaScript", "C#", "Java", "Python", "C++", "Kotlin", "HTML", "CSS"};
+        this.skills = new String[]{"Unity", "React Native", "Spring", "REST API", "Android", "Next.js"};
+        this.tools = new String[]{"Unity Version Control", "Github", "Notion", "Figma", "Postman", "Netlify", "Visual Studio", "VsCode", "IntelliJ"};
     }
     void hello(){
         System.out.println("반갑습니다🖐️");
         System.out.println(role+"를 희망하는 '"+name+"'입니다.");
-        System.out.print("제가 다룰 수 있는 언어는 ");
+        System.out.print("제가 다룰 수 있는 기술은 ");
         for (String skill : skills) {
             System.out.print(skill+", ");
         }
@@ -35,7 +37,7 @@ class Introduce{
 ```
 
 ## 📖 Currently Learning...  
-<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
