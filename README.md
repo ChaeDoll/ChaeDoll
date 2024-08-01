@@ -37,7 +37,7 @@ class Introduce{
 ```
 
 ## 📖 Currently Learning...  
-<img alt="XR" src ="https://img.shields.io/badge/XR-990000.svg?&style=for-the-badge/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="eXtended Reality" src ="https://img.shields.io/badge/eXtended Reality (XR)-990000.svg?&style=for-the-badge"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
