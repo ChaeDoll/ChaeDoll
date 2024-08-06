@@ -68,6 +68,8 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
   React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. FullStack 구현을 맡았다.
 - **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
   React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. FullStack 구현을 맡았다.
+- **Smart My Ai Friend (SMAF) : https://www.youtube.com/watch?v=rlQsOa1XQJY**
+  Unity XR, CLOVA Studio, Naver Cloud Server 2인 팀 프로젝트. XR 총괄 개발을 맡았다.
 
 ## 📄 Others
 - ### My Sites  
