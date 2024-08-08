@@ -57,7 +57,7 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
 - **Smart My Ai Friend (SMAF) : https://www.youtube.com/watch?v=rlQsOa1XQJY**  
   Unity XR, CLOVA Studio, Naver Cloud Server 2인 팀 프로젝트. XR 총괄 개발을 맡았다.
 - **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
-  앱 출시를 위한 Refactoring 과정을 거쳤다. UI/UX 개선, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등.. 그 중 Frontend 구현을 맡았다.
+  앱 출시를 위한 Refactoring. UI/UX 개선, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. Frontend 구현을 맡았다.
 - **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
   React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. FullStack 구현을 맡았다.
 - **Feel Check APP : https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4**  
