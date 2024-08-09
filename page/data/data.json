@@ -1,5 +1,11 @@
 [
     {
+        "name":"나의 XR 친구 SMAF(Smart My AI Friend)",
+        "category":"프로젝트",
+        "date":"2024-07-03",
+        "description":"XR-AI&Cloud 팀 프로젝트. 총 2명 인원으로 그 중 XR 개발을 담당. Meta Quest Device 환경에서 가상현실/혼합현실을 오가는 나만의 AI 친구 서비스 개발. Unity C# Script를 활용하여 구현."
+    },
+    {
         "name":"정보처리기사",
         "category":"자격증",
         "date":"2024-06-18",
