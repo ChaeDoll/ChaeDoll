@@ -2,39 +2,42 @@
 
 ```java
 // Welcome!!!
-class Main{
-  public static void main(String[] args){
-    Introduce me = Introduce("Chaeyun");
-    me.hello();
-  }
+class Main {
+    public static void main(String[] args) {
+        Introduce me = new Introduce("Chaeyun");
+        me.hello();
+    }
 }
 class Introduce{
-  String name;
-  String role;
-  String[] skills;
-  Introduce(String id){
-    if (id === "Chaeyun"){
-      this.name = "임채윤";
+    String name;
+    String role;
+    String[] skills;
+    String[] languages;
+    String[] tools;
+    Introduce(String id){
+        if (id == "Chaeyun"){
+            this.name = "임채윤";
+        }
+        this.role = "AR/XR Reseacher & Developer";
+        this.languages = new String[]{"JavaScript", "C#", "Java", "Python", "C++", "Kotlin", "HTML", "CSS"};
+        this.skills = new String[]{"Unity", "React Native", "Spring", "REST API", "Android", "Next.js"};
+        this.tools = new String[]{"Unity Version Control", "Github", "Notion", "Figma", "Postman", "Netlify", "Visual Studio", "VsCode", "IntelliJ"};
     }
-    this.role = "AR/XR Developer";
-    this.skills = ["React Native", "Spring", "REST API", "Python", "Android", "HTML", "CSS", "JavaScript", "Next.js"];
-    this.tools = ["Github", "Notion", "Figma", "Postman", "Netlify, VsCode, IntelliJ"];
-  }
-  void hello(){
-    System.out.println("반갑습니다🖐️");
-    System.out.println(role+"를 희망하는 '"+name+"'입니다.");
-    System.out.print("제가 다룰 수 있는 언어는 ");
-    for (String skill : skills) {
-      System.out.print(skill+", ");
+    void hello(){
+        System.out.println("반갑습니다🖐️");
+        System.out.println(role+"를 희망하는 '"+name+"'입니다.");
+        System.out.print("제가 다룰 수 있는 기술은 ");
+        for (String skill : skills) {
+            System.out.print(skill+", ");
+        }
+        System.out.print("입니다.");
+        System.out.println("편안하게 둘러보세요!");
     }
-    System.out.print("입니다.");
-    System.out.println("편안하게 둘러보세요!");
-  }
 }
 ```
 
 ## 📖 Currently Learning...  
-<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
+<img alt="eXtended Reality" src ="https://img.shields.io/badge/eXtended Reality (XR)-990000.svg?&style=for-the-badge"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
 Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
@@ -51,20 +54,24 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
 -->
 
 ## 🌱 My Portfolio
-- **My Profile Project Page : https://github.com/ChaeDoll/ChaeDoll/tree/main/page**  
-  순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
-- **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
-  Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
-- **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
-  Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
+- **Smart My Ai Friend (SMAF) : https://www.youtube.com/watch?v=rlQsOa1XQJY**  
+  Unity XR, CLOVA Studio, Naver Cloud Server 2인 팀 프로젝트. XR 총괄 개발을 맡았다.
+- **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
+  앱 출시를 위한 Refactoring. UI/UX 개선, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. Frontend 구현을 맡았다.
+- **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
+  React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. FullStack 구현을 맡았다.
+- **Feel Check APP : https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4**  
+  React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. FullStack 구현을 맡았다.
+- **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
+  React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. Frontend 구현을 맡았다.
 - **Foreigner Infra Report : https://github.com/ChaeDoll/TeamProject-ForeignerReport**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 팀 프로젝트
-- **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
-  React Native, Spring 기반 팀 프로젝트. 명지대 학교 프로젝트 진행/개발하는 학생들을 위한 팀 매칭 앱. Frontend 구현을 맡았다.
-- **Feel Check APP : https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4**  
-  React Native, Spring 기반 학교 캡스톤 팀 프로젝트. AI 감정인식 캘린더 (감정일기) 앱. FullStack 구현을 맡았다.
-- **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
-  React 기반 교내 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. Frontend 구현을 맡았다.
+- **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
+  Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
+- **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
+  Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
+- **My Profile Project Page : https://github.com/ChaeDoll/ChaeDoll/tree/main/page**  
+  순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
 
 ## 📄 Others
 - ### My Sites  
