@@ -55,7 +55,7 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
 
 ## 🌱 My Portfolio
 - **Smart My Ai Friend (SMAF) : https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598**  
-  Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest) 환경에서 이용하는 RAG LLM AI 서비스. 2인 팀원 중 XR 총괄 개발을 맡았다.
+  Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 팀원 중 XR 총괄 개발을 맡았다.
 - **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
   앱 출시를 위한 Refactoring. UI/UX 개선, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. Frontend 구현을 맡았다.
 - **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
