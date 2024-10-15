@@ -54,12 +54,13 @@ class Introduce{
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
 - **Alcohol Calculator APP  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)**  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
-  
-## 🌱 My Project
 - **CockTell Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
-- **My Profile Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)** - 2022.07 ~ 2022.07  
-  순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
+  
+## 🌱 My Project
+- **어쩌구** - 2024.01
+- **My Site  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)** - 2022.07 ~ 2022.07  
+  HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
   
 ## 📄 Others
  - ### Certification
