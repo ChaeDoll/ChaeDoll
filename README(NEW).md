@@ -81,9 +81,9 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
  - ### Certification
 
  - ### Associate
-  - XREAL 7기 Developer
-  - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
-  - 명지대학교 정보통신공학과 학사 졸업 예정
+   - XREAL 7기 Developer
+   -  명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
+   -  명지대학교 정보통신공학과 학사 졸업 예정
  - ### My Sites  
   <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 
   &nbsp;<a href="https://velog.io/@codbs0627/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a> 
