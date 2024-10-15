@@ -37,7 +37,8 @@ class Introduce{
 ```
 
 ## 🏅 Awards
-- <b>2024 메타버스 개발자 경진대회 장려상</b> - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
+- < 2024. 10 >  <b>2024 메타버스 개발자 경진대회 장려상</b> - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
+- < 2023. 06 >  이공계 국가 우수 장학생
   
 ## 🌳 Team Project
 - **Smart My Ai Friend (SMAF)  [[프로젝트 소개 (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
