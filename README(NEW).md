@@ -41,7 +41,6 @@ class Introduce{
 - [ 2023. 06 ] &nbsp;**이공계 국가 우수 장학생**
   
 ## 🌳 Team Project
-<span style="font-size:30px;">오예</span>
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
 - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)  
@@ -61,7 +60,7 @@ class Introduce{
   
 ## 🌱 My Project
 - **어쩌구** - 2024.01
-- [ 2022.07 - 2022.07 ] &nbsp;**My Site  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)**  
+- [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)  
   HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
   
 ## 📄 Others
