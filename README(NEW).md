@@ -38,7 +38,7 @@ class Introduce{
 
 ## 🏅 Awards
 - <b>2024 메타버스 개발자 경진대회 장려상</b> - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
-- 
+  
 ## 🌳 Team Project
 - **Smart My Ai Friend (SMAF)  [[프로젝트 소개 (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
@@ -58,7 +58,7 @@ class Introduce{
 ## 🌱 My Project
 - **CockTell Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
-- **My Profile Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)**  
+- **My Profile Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)** - 2022.07~2022.07
   순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
   
 ## 📄 Others
