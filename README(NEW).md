@@ -42,11 +42,11 @@ class Introduce{
 ## 🌳 Team Project
 - **Smart My Ai Friend (SMAF)  [[프로젝트 소개 (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
-- **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
+- **Myongji Camp APP Refactoring  [[프로젝트 소개 (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
   이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
-- **Taja Coding Web : https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4**  
+- **Taja Coding Web  [[프로젝트 소개 (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)**  
   React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
-- **Feel Check APP : https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4**  
+- **Feel Check APP  [[프로젝트 소개 (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)**  
   React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. 3인 중 FullStack 구현을 맡았다.
 - **Myongji Camp APP : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
   React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. 3인 중 Frontend 구현을 맡았다.
