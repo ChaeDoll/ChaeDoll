@@ -18,10 +18,10 @@ class Introduce{
         if (id == "Chaeyun"){
             this.name = "임채윤";
         }
-        this.role = "AR/XR Reseacher & Developer";
-        this.languages = new String[]{"JavaScript", "C#", "Java", "Python", "C++", "Kotlin", "HTML", "CSS"};
-        this.skills = new String[]{"Unity", "React Native", "Spring", "REST API", "Android", "Next.js"};
-        this.tools = new String[]{"Unity Version Control", "Github", "Notion", "Figma", "Postman", "Netlify", "Visual Studio", "VsCode", "IntelliJ"};
+        this.role = "XR Reseacher & Developer";
+        this.languages = new String[]{"C#", "Python", "C++", "JavaScript", "Java", "Kotlin", "HTML", "CSS"};
+        this.skills = new String[]{"Unity", "Meta XR", "AR Foundation", "REST API", "Web Frontend", "Web Backend", "Android Client", "Server"};
+        this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Unity Version Control", "Visual Studio", "VsCode", "IntelliJ"};
     }
     void hello(){
         System.out.println("반갑습니다🖐️");
