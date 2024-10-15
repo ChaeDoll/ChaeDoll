@@ -59,7 +59,7 @@ class Introduce{
   
 ## 🌱 My Project
 - **어쩌구** - 2024.01
-- 2022.07 - 2022.07 **My Site  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)**
+- (2022.07 - 2022.07)  **My Site  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)**  
   HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
   
 ## 📄 Others
