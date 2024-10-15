@@ -42,21 +42,21 @@ class Introduce{
   
 ## 🌳 Team Project
 <span style="font-size:30px;">오예</span>
-- *[ 2024.07 - 2024.09 ]* &nbsp;**Smart My Ai Friend (SMAF)</span>**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)  
+- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
-- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
+- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)  
   이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
-- [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)**  
+- [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)    
   React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
-- [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)**  
+- [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP**  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)  
   React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. 3인 중 FullStack 구현을 맡았다.
-- [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
+- [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)  
   React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. 3인 중 Frontend 구현을 맡았다.
-- [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)**  
+- [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report**  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
-- [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)**  
+- [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
-- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)**  
+- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
   
 ## 🌱 My Project
