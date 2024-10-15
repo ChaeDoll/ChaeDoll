@@ -52,8 +52,10 @@ React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&
 Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;
 WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
 -->
+## 🏅 Awards
+- 2024 메타버스 개발자 경진대회 장려상
 
-## 🌱 My Portfolio
+## 🌳 Team Project
 - **Smart My Ai Friend (SMAF) : https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
 - **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
@@ -68,11 +70,13 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
 - **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
+  
+## 🌱 My Project
 - **CockTell Project Page : https://github.com/ChaeSoGong/TeamProject-Cocktell**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
 - **My Profile Project Page : https://github.com/ChaeDoll/ChaeDoll/tree/main/page**  
   순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
-
+  
 ## 📄 Others
 - ### My Sites  
   <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 
