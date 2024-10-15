@@ -43,32 +43,32 @@ class Introduce{
 ## 🌳 Team Project
 - [ 2024.07 - 2024.09 ] &nbsp; **Smart My Ai Friend (SMAF)  [[프로젝트 소개 (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
-- [ 2024.06 - 2024.08 ]  **Myongji Camp APP Refactoring  [[프로젝트 소개 (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
+- [ 2024.06 - 2024.08 ] &nbsp; **Myongji Camp APP Refactoring  [[프로젝트 소개 (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
   이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
-- < 2024.04 - 2024.06 >  **Taja Coding Web  [[프로젝트 소개 (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)**  
+- [ 2024.04 - 2024.06 ] &nbsp; **Taja Coding Web  [[프로젝트 소개 (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)**  
   React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
-- < 2024.03 - 2024.06 >  **Feel Check APP  [[프로젝트 소개 (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)**  
+- [ 2024.03 - 2024.06 ] &nbsp; **Feel Check APP  [[프로젝트 소개 (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)**  
   React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. 3인 중 FullStack 구현을 맡았다.
-- < 2024.02 - 2024.03 >  **Myongji Camp APP  [[프로젝트 소개 (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
+- [ 2024.02 - 2024.03 ] &nbsp; **Myongji Camp APP  [[프로젝트 소개 (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
   React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. 3인 중 Frontend 구현을 맡았다.
-- < 2023.11 - 2023.12 >  **Foreigner Infra Report  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)**  
+- [ 2023.11 - 2023.12 ] &nbsp; **Foreigner Infra Report  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
-- < 2023.10 - 2023.11 >  **Alcohol Calculator APP  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)**  
+- [ 2023.10 - 2023.11 ] &nbsp; **Alcohol Calculator APP  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)**  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
-- < 2023.07 - 2023.09 >  **CockTell Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)**  
+- [ 2023.07 - 2023.09 ] &nbsp; **CockTell Project Page  [[프로젝트 소개 (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)**  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
   
 ## 🌱 My Project
 - **어쩌구** - 2024.01
-- < 2022.07 - 2022.07 >  **My Site  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)**  
+- [ 2022.07 - 2022.07 ] &nbsp; **My Site  [[프로젝트 소개 (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)**  
   HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
   
 ## 📄 Others
  - ### Certification
-   - < 2024.06 >  **정보처리기사**
-   - < 2024.03 >  **초경량비행장치 무인멀티콥터조종자 1종 (드론)**
-   - < 2022.09 >  조주기능사
-   - < 2021.12 >  양식조리기능사
+   - [ 2024.06 ] &nbsp; **정보처리기사**
+   - [ 2024.03 ] &nbsp; **초경량비행장치 무인멀티콥터조종자 1종 (드론)**
+   - [ 2022.09 ] &nbsp; 조주기능사
+   - [ 2021.12 ] &nbsp; 양식조리기능사
  - ### Associate
    - XREAL 7기 Developer
    - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
