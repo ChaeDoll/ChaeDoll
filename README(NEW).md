@@ -53,7 +53,7 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
 WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
 -->
 ## 🏅 Awards
-- <b fontSize='25'>2024 메타버스 개발자 경진대회 장려상</b>
+- <b>2024 메타버스 개발자 경진대회 장려상</b>
 
 ## 🌳 Team Project
 - **Smart My Ai Friend (SMAF) : https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598**  
@@ -78,16 +78,18 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
   순수 웹페이지 (html, css, javascript) 사용하여 구현한 첫 개인 프로젝트 'My Profile'
   
 ## 📄 Others
-- ### My Sites  
+ - ### Certification
+
+ - ### Associate
+  - XREAL 7기 Developer
+  - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
+  - 명지대학교 정보통신공학과 학사 졸업 예정
+ - ### My Sites  
   <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 
   &nbsp;<a href="https://velog.io/@codbs0627/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a> 
   &nbsp;<a href="https://danlab.mju.ac.kr/home" target="_blank"><img src="https://img.shields.io/badge/소속%20연구실 (Labotary)-669DF6?style=flat&logo=googlebigquery&logoColor=white"/></a> 
   &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/내 사이트 (My Site)-1A52C2?style=flat&logo=monkeytie&logoColor=white"/></a> 
   &nbsp;<a href="https://cocktellchaesogong.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CockTell Web Site-E61845?style=flat&logo=moo&logoColor=white"/></a>
-- ### Associate
-  - XREAL 7기 Developer
-  - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
-  - 명지대학교 정보통신공학과 학사 졸업 예정
 - ### Contact  
   📧E-mail : dlacodbs0627@gmail.com
   🏫Student E-mail : codbs0627@mju.ac.kr
