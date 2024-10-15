@@ -36,25 +36,9 @@ class Introduce{
 }
 ```
 
-## 📖 Currently Learning...  
-<img alt="eXtended Reality" src ="https://img.shields.io/badge/eXtended Reality (XR)-990000.svg?&style=for-the-badge"/> &nbsp;<img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<!--여기는 아이콘 보관소
-Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
-Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
-Java : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/>
-Kotlin : <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-C# : <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
-Spring : <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-C : <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
-React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;
-WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
--->
 ## 🏅 Awards
 - <b>2024 메타버스 개발자 경진대회 장려상</b> - SMAF(Smart My AI Friend)
-
+- 
 ## 🌳 Team Project
 - **Smart My Ai Friend (SMAF) : https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
@@ -98,3 +82,19 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
   🏫Student E-mail : codbs0627@mju.ac.kr
 - ### MY BAEKJOON STATUS  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
+
+
+<!--여기는 아이콘 보관소
+Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
+Android Studio : <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">  
+Java : <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+Unity : <img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/>
+Kotlin : <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+C# : <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=Csharp&logoColor=white"/>
+Spring : <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+Js : <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+C : <img src="https://img.shields.io/badge/C-A8B9CCF?style=flat&logo=C&logoColor=white"/> 
+React : <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/> &nbsp;
+WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
+-->
