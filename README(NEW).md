@@ -41,6 +41,7 @@ class Introduce{
 - [ 2023. 06 ] &nbsp;**이공계 국가 우수 장학생**
   
 ## 🌳 Team Project
+<b style="font-size:1.5em">오예</b>
 - [ 2024.07 - 2024.09 ] &nbsp;<span style="font-size:1.3em">Smart My Ai Friend (SMAF)</span>  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
 - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)**  
