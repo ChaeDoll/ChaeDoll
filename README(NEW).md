@@ -80,7 +80,10 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
   &nbsp;<a href="https://danlab.mju.ac.kr/home" target="_blank"><img src="https://img.shields.io/badge/소속%20연구실 (Labotary)-669DF6?style=flat&logo=googlebigquery&logoColor=white"/></a> 
   &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/내 사이트 (My Site)-1A52C2?style=flat&logo=monkeytie&logoColor=white"/></a> 
   &nbsp;<a href="https://cocktellchaesogong.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CockTell Web Site-E61845?style=flat&logo=moo&logoColor=white"/></a>
-  
+- ### Associate
+  - XREAL 7기 Developer (2024. 09 ~ )
+  - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
+  - 명지대학교 정보통신공학과 학사 졸업 예정 (2019. 03 ~ 2025. 02)  
 - ### Contact  
   📧E-mail : dlacodbs0627@gmail.com
   🏫Student E-mail : codbs0627@mju.ac.kr
