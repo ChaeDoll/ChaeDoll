@@ -53,7 +53,7 @@ Next.js : <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.s
 WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&style=for-the-badge&logo=mdnwebdocs&logoColor=white"/> 
 -->
 ## 🏅 Awards
-- 2024 메타버스 개발자 경진대회 장려상
+- <b font-size='20'>2024 메타버스 개발자 경진대회 장려상</b>
 
 ## 🌳 Team Project
 - **Smart My Ai Friend (SMAF) : https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598**  
