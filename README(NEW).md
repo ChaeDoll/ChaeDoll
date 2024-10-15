@@ -75,9 +75,9 @@ WebXR : <img alt="WebXR" src ="https://img.shields.io/badge/WebXR-990000.svg?&st
 
 ## 📄 Others
 - ### My Sites  
-  <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
-  &nbsp;<a href="https://danlab.mju.ac.kr/home" target="_blank"><img src="https://img.shields.io/badge/소속%20연구실-669DF6?style=flat&logo=googlebigquery&logoColor=white"/></a>
-  &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/My Site-1A52C2?style=flat&logo=monkeytie&logoColor=white"/></a>
+  <a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+  &nbsp;<a href="https://danlab.mju.ac.kr/home" target="_blank"><img src="https://img.shields.io/badge/소속%20연구실 (Labotary)-669DF6?style=flat&logo=googlebigquery&logoColor=white"/></a>
+  &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/내 사이트 (My Site)-1A52C2?style=flat&logo=monkeytie&logoColor=white"/></a>
   &nbsp;<a href="https://cocktellchaesogong.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CockTell Web Site-E61845?style=flat&logo=moo&logoColor=white"/></a>
   
 - ### Contact  
