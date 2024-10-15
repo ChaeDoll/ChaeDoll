@@ -40,7 +40,7 @@ class Introduce{
 - <b>2024 메타버스 개발자 경진대회 장려상</b> - SMAF(Smart My AI Friend)
 - 
 ## 🌳 Team Project
-- **Smart My Ai Friend (SMAF) [<프로젝트 소개 (Notion)>](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
+- **Smart My Ai Friend (SMAF)  [<프로젝트 소개 (Notion)>](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
 - **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
   이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
@@ -52,7 +52,7 @@ class Introduce{
   React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. 3인 중 Frontend 구현을 맡았다.
 - **Foreigner Infra Report : https://github.com/ChaeDoll/TeamProject-ForeignerReport**  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
-- **Alcohol Calculator APP : https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator**  
+- **Alcohol Calculator APP  [<프로젝트 소개 (Github)>](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)**  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
   
 ## 🌱 My Project
