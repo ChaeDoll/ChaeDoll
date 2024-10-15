@@ -40,7 +40,7 @@ class Introduce{
 - <b>2024 메타버스 개발자 경진대회 장려상</b> - SMAF(Smart My AI Friend)
 - 
 ## 🌳 Team Project
-- **Smart My Ai Friend (SMAF)  [<프로젝트 소개 (Notion)>](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
+- **Smart My Ai Friend (SMAF)  [<INTRO Link (Notion)>](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)**  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
 - **Myongji Camp APP Refactoring : https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4**  
   이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
