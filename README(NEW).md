@@ -1,4 +1,4 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=Chaeyun's%20GitHub&fontSize=90" /> -->
+<img src="./Banner.png" />
 
 this.name = "임채윤";  
 this.role = "XR Reseacher & Developer";  
