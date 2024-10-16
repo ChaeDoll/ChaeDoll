@@ -81,6 +81,10 @@ this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Un
    - 일본어 언어 교환 프로그램 (7주차)
    - 알고리즘 스터디 (12주차)
    - Java Spring Framework 스터디 (10주차)
+ - ### TMI...🤫
+   - 제 4회 전국 시각장애인 바리스타 대회 봉사 서포터즈 참가
+   - 前 명지대학교 천문사진동아리 AnP 총무
+   - 前 멕시칸 요리점 주방 보조
  - ### My Sites  
   &emsp;&emsp;<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 
   &nbsp;<a href="https://velog.io/@codbs0627/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a> 
@@ -92,10 +96,7 @@ this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Un
   🏫Student E-mail : codbs0627@mju.ac.kr
 - ### MY BAEKJOON STATUS  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
-- ### TMI...🤫
-   - 제 4회 전국 시각장애인 바리스타 대회 봉사 서포터즈 참가
-   - 前 명지대학교 천문사진동아리 AnP 총무
-   - 前 멕시칸 요리점 주방 보조
+
 
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
