@@ -48,10 +48,14 @@ class Introduce{
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
-- [ 2024.10 - 2024.12 ] &nbsp;**White Vision** - 2인 중 AR 앱 총괄 개발, AI 보조  
-  Unity AR, Computer Vision AI 저시력자 시각 보조 서비스. Image Segmentation으로 저시력자들의 보행 안전을 돕는다.  
-- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598) - 2인 중 XR 총괄 개발  
-  Unity XR, Generative AI 혼합현실(MR) 인공지능 컴패니언. XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 AI 콘텐츠.
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**
+    - 2인 중 AR 앱 총괄 개발, AI 보조  
+    - Unity AR, Computer Vision AI 저시력자 시각 보조 서비스
+    - Image Segmentation으로 도로의 종류를 다른 색상으로 분류하여 저시력자들의 보행 안전을 돕는다.  
+- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
+    - 2인 중 XR 총괄 개발
+    - Unity XR, Generative AI 혼합현실(MR) 인공지능 컴패니언
+    - XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.
 - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4) - 3인 중 APP Frontend 개발  
   React Native, Spring 프로젝트 팀 매칭 서비스. UI/UX 디자인 컨셉 변경, API 간결화, 클라우드 배포, PUSH 알림, Android 배포 등 Refactoring 진행. 
 - [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4) - 4인  
