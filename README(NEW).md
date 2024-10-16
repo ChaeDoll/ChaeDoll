@@ -23,13 +23,13 @@ this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Un
   > - *Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스*
   > - *도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.*  
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
-    - *총 2인 중 XR 총괄 개발*
-    - *Unity XR, Generative AI - 혼합현실(MR) 인공지능 컴패니언*
-    - *XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.*
+  > - *총 2인 중 XR 총괄 개발*
+  > - *Unity XR, Generative AI - 혼합현실(MR) 인공지능 컴패니언*
+  > - *XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.*
 - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
-    - *총 3인 중 APP Frontend 개발*
-    - *React Native, Spring - 프로젝트 팀원 매칭 서비스*
-    - *디자인 컨셉 변경, API 간결화, PUSH 알림, 앱 및 서버 배포 등 Refactoring을 진행한 프로젝트이다.*
+  > - *총 3인 중 APP Frontend 개발*
+  > - *React Native, Spring - 프로젝트 팀원 매칭 서비스*
+  > - *디자인 컨셉 변경, API 간결화, PUSH 알림, 앱 및 서버 배포 등 Refactoring을 진행한 프로젝트이다.*
 - [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)
     - *총 4인 중 Web FullStack 개발*
     - *React, node.js - 코딩 타자 연습 커뮤니티*
