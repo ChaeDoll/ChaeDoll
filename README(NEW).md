@@ -48,10 +48,10 @@ class Introduce{
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
-- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
     - 2인 중 AR 앱 총괄 개발, AI 보조  
     - Unity AR, Computer Vision AI 저시력자 시각 보조 서비스
-    - Image Segmentation으로 도로의 종류를 다른 색상으로 분류하여 저시력자들의 보행 안전을 돕는다.  
+    - Image Segmentation 도로 종류 분류, Object Detection 장애물 알림으로 저시력자들의 보행 안전을 돕는다.  
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
     - 2인 중 XR 총괄 개발
     - Unity XR, Generative AI 혼합현실(MR) 인공지능 컴패니언
