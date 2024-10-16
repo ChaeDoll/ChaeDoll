@@ -1,40 +1,10 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=Chaeyun's%20GitHub&fontSize=90" /> -->
 
-```java
-// Welcome!!!
-class Main {
-    public static void main(String[] args) {
-        Introduce me = new Introduce("Chaeyun");
-        me.hello();
-    }
-}
-class Introduce{
-    String name;
-    String role;
-    String[] skills;
-    String[] languages;
-    String[] tools;
-    Introduce(String id){
-        if (id == "Chaeyun"){
-            this.name = "임채윤";
-        }
-        this.role = "XR Reseacher & Developer";
-        this.languages = new String[]{"C#", "Python", "C++", "JavaScript", "Java", "Kotlin", "HTML", "CSS"};
-        this.skills = new String[]{"Unity", "Meta XR", "AR Foundation", "REST API", "Web Frontend", "Web Backend", "Android Client", "Server"};
-        this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Unity Version Control", "Visual Studio", "VsCode", "IntelliJ"};
-    }
-    void hello(){
-        System.out.println("반갑습니다🖐️");
-        System.out.println(role+"를 희망하는 '"+name+"'입니다.");
-        System.out.print("제가 다룰 수 있는 기술은 ");
-        for (String skill : skills) {
-            System.out.print(skill+", ");
-        }
-        System.out.print("입니다.");
-        System.out.println("편안하게 둘러보세요!");
-    }
-}
-```
+this.name = "임채윤";  
+this.role = "XR Reseacher & Developer";  
+this.languages = new String[]{"C#", "Python", "C++", "JavaScript", "Java", "Kotlin", "HTML", "CSS"};  
+this.skills = new String[]{"Unity", "Meta XR", "AR Foundation", "REST API", "Web Frontend", "Web Backend", "Android Client", "Server"};  
+this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Unity Version Control", "Visual Studio", "VsCode", "IntelliJ"};  
 
 ## 🏅 Awards
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
@@ -118,7 +88,7 @@ class Introduce{
   &nbsp;<a href="https://chaedoll.github.io/ChaeDoll/page/" target="_blank"><img src="https://img.shields.io/badge/내 사이트 (My Site)-1A52C2?style=flat&logo=monkeytie&logoColor=white"/></a> 
   &nbsp;<a href="https://cocktellchaesogong.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CockTell Web Site-E61845?style=flat&logo=moo&logoColor=white"/></a>
 - ### Contact  
-  📧E-mail : dlacodbs0627@gmail.com
+  📧E-mail : dlacodbs0627@gmail.com  
   🏫Student E-mail : codbs0627@mju.ac.kr
 - ### MY BAEKJOON STATUS  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
