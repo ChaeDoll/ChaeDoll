@@ -47,7 +47,7 @@ class Introduce{
 - [ 2022.09 ] &nbsp;조주기능사
 - [ 2021.12 ] &nbsp;양식조리기능사
   
-## 🌳 Team Project - Total 9
+## 🌳 Team Project (total : 9)
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
     - *총 2인 중 AR 앱 총괄 개발, AI 보조*  
     - *Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스*
@@ -85,7 +85,7 @@ class Introduce{
     - *Next.js, Serverless - 칵테일 레시피 공유 커뮤니티*
     - *칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공한다.*  
   
-## 🌱 My Project - Total 3
+## 🌱 My Project (total : 3)
 - [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
     - *C#, Unity AR Foundation - 나만의 AR 포토카드*
     - *증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.*
