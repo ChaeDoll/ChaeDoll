@@ -49,22 +49,31 @@ class Introduce{
   
 ## 🌳 Team Project
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
-    - *2인 중 AR 앱 총괄 개발, AI 보조*  
-    - *Unity AR, Computer Vision AI 저시력자 시각 보조 서비스*
-    - *Image Segmentation 도로 종류 분류, Object Detection 장애물 알림으로 저시력자들의 보행 안전을 돕는다.*  
+    - *총 2인 중 AR 앱 총괄 개발, AI 보조*  
+    - *Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스*
+    - *도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.*  
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
-    - 2인 중 XR 총괄 개발
-    - Unity XR, Generative AI 혼합현실(MR) 인공지능 컴패니언
-    - XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.
-- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4) - 3인 중 APP Frontend 개발  
-  React Native, Spring 프로젝트 팀 매칭 서비스. UI/UX 디자인 컨셉 변경, API 간결화, 클라우드 배포, PUSH 알림, Android 배포 등 Refactoring 진행. 
-- [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4) - 4인  
-  React, nodejs 기반 팀 프로젝트. 코딩 타자연습 뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
-- [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP**  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4) - 3인  
-  React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. 3인 중 FullStack 구현을 맡았다.
-- [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4) - 3인   
-  React Native, Spring 기반 팀 프로젝트. 프로젝트를 진행/개발하는 교내 학생들을 위한 팀 매칭 앱. 3인 중 Frontend 구현을 맡았다.
-- [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report**  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport) - 3인  
+    - *총 2인 중 XR 총괄 개발*
+    - *Unity XR, Generative AI - 혼합현실(MR) 인공지능 컴패니언*
+    - *XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.*
+- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
+    - *총 3인 중 APP Frontend 개발*
+    - *React Native, Spring - 프로젝트 팀원 매칭 서비스*
+    - *디자인 컨셉 변경, API 간결화, PUSH 알림, 앱 및 서버 배포 등 Refactoring을 진행한 프로젝트이다.*
+- [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)
+    - *총 4인 중 Web FullStack 개발*
+    - *React, node.js - 코딩 타자 연습 커뮤니티*
+    - *핵심 알고리즘 코드 예제를 타이핑하며 학습하거나 문제를 공유하는 커뮤니티 웹 사이트이다.*
+- [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP**  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)
+    - *총 3인 중 APP FullStack 개발*
+    - *React Native, Spring, Computer Vision AI - 표정 분석 기반 감정 일기 (캘린더)*
+    - *감정을 분석하여 기록하거나, 일기 요약과 한줄평을 제공하는 AI 감정 캘린더이다. 추가로 감정 맞춤형 서비스를 제공한다.*
+- [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
+    - *총 3인 중 APP Frontend 개발*
+    - *React Native, Spring - 프로젝트 팀원 매칭 서비스*
+    - *프로젝트를 개발하는 학생들을 위한 팀 매칭 앱이다. 해커톤에서 영감을 받아, 3주의 짧은 기간으로 완성에 도전하였다.*
+- [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report**  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)
+    - *총 3인*  
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
 - [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator) - 2인  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
