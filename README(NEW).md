@@ -1,5 +1,7 @@
 <img src="./Banner.png" />
 
+안녕하세요. XR(MR/AR) 기술에 관심이 많은 개발자 임채윤입니다.
+
 this.name = "임채윤";  
 this.role = "XR Reseacher & Developer";  
 this.languages = new String[]{"C#", "Python", "C++", "JavaScript", "Java", "Kotlin", "HTML", "CSS"};  
