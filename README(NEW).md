@@ -39,6 +39,12 @@ class Introduce{
 ## 🏅 Awards
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
 - [ 2023. 06 ] &nbsp;**이공계 국가 우수 장학생**
+
+## 🪪 Certification
+- [ 2024.06 ] &nbsp;**정보처리기사**
+- [ 2024.03 ] &nbsp;**초경량비행장치 무인멀티콥터조종자 1종 (드론)**
+- [ 2022.09 ] &nbsp;조주기능사
+- [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)  
@@ -64,11 +70,6 @@ class Introduce{
   HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
   
 ## 📄 Others
- - ### Certification
-   - [ 2024.06 ] &nbsp;**정보처리기사**
-   - [ 2024.03 ] &nbsp;**초경량비행장치 무인멀티콥터조종자 1종 (드론)**
-   - [ 2022.09 ] &nbsp;조주기능사
-   - [ 2021.12 ] &nbsp;양식조리기능사
  - ### Associate
    - XREAL 7기 Developer
    - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
