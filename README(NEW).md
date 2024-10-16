@@ -38,6 +38,7 @@ class Introduce{
 
 ## 🏅 Awards
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
+- [ 2024. 08 ] &nbsp;**K-MOOC 가상·증강현실분야 성적우수장학금**
 - [ 2023. 06 ] &nbsp;**이공계 국가 우수 장학생**
 
 ## 🪪 Certification
@@ -47,12 +48,14 @@ class Introduce{
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**
+  Unity와 Computer Vision 을 활용한 저시력자 시각 보조 서비스. Image Segmentation으로 저시력자들의 보행 안전을 돕는다.
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
 - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)  
   이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
 - [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)    
-  React, nodejs 기반 팀 프로젝트. 코딩 타자연습 커뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
+  React, nodejs 기반 팀 프로젝트. 코딩 타자연습 뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
 - [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP**  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)  
   React Native, Spring 기반 팀 프로젝트. AI 얼굴분석 기반 감정인식 캘린더 (감정일기) 앱. 3인 중 FullStack 구현을 맡았다.
 - [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)  
@@ -65,7 +68,10 @@ class Introduce{
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
   
 ## 🌱 My Project
-- **어쩌구** - 2024.01
+- [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
+- Unity AR Foundation을 활용하여 개발한 증강현실 앱. Image Tracking을 활용한 Interactive AR 포토카드 앱이다.
+- [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**
+  Unity C# Script를 활용하여 개발한 FPS 총 게임. 제한 시간 내에 오리의 공격을 피해 모두 처치하는 게임이다.
 - [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)  
   HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
   
@@ -74,6 +80,16 @@ class Introduce{
    - XREAL 7기 Developer
    - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
    - 명지대학교 정보통신공학과 학사 졸업 예정
+ - ### Activities & Study
+   - 스마일게이트 Orange Planet Learning Mate 3기 참가 
+   - 2024 XR 디바이스 아이디어톤 본선 진출
+   - 2024 환경 SW 개발 경진대회 피우다 프로젝트 참가
+   - 2024 교내 SW경진대회 1차 서류 합격
+   - SKT AI Fellowship 6기 1차 서류 합격
+   - 2023 교내 SW경진대회 참가
+   - 일본어 언어 교환 프로그램 (7주차)
+   - 알고리즘 스터디 (12주차)
+   - Java Spring Framework 스터디 (10주차)
  - ### My Sites  
   &emsp;&emsp;<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 
   &nbsp;<a href="https://velog.io/@codbs0627/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a> 
@@ -85,7 +101,10 @@ class Introduce{
   🏫Student E-mail : codbs0627@mju.ac.kr
 - ### MY BAEKJOON STATUS  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
-
+- ### TMI...🤫
+   - 제 4회 전국 시각장애인 바리스타 대회 봉사 서포터즈 참가
+   - 前 명지대학교 천문사진동아리 AnP 총무
+   - 前 멕시칸 요리점 주방 보조
 
 <!--여기는 아이콘 보관소
 Three.js : <img src="https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
