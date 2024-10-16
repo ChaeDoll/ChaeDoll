@@ -48,7 +48,7 @@ class Introduce{
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
-- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision** - 2인
   Unity와 Computer Vision 을 활용한 저시력자 시각 보조 서비스. Image Segmentation으로 저시력자들의 보행 안전을 돕는다.
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)  
   Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. 2인 중 XR 총괄 개발을 맡았다.
