@@ -23,7 +23,7 @@ this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Un
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
   <details>
     <summary>자세히 보기</summary>
-    > - *총 2인 중 AR 앱 총괄 개발, AI 보조*  
+    > - <i>총 2인 중 AR 앱 총괄 개발, AI 보조</i> <br/>
     > - *Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스*  
     > - *도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.*   
   </details>
