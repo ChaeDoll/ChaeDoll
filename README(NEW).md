@@ -48,12 +48,12 @@ class Introduce{
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
-- [ 2024.10 - 2024.12 ] &nbsp;**White Vision** - 2인  
-  Unity와 Computer Vision 을 활용한 저시력자 시각 보조 서비스. Image Segmentation으로 저시력자들의 보행 안전을 돕는다.
-- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598) - 2인  
-  Unity XR과 Naver Cloud 및 CLOVA Studio를 활용한 XR(Meta Quest)-RAG LLM AI 서비스. XR 총괄 개발을 맡았다.
-- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4) - 3인  
-  이전 프로젝트 Refactoring. UI/UX 디자인 컨셉 변경, API 코드 간결화, 클라우드 서버 배포, 알림 기능 추가 등. 3인 중 Frontend 구현을 맡았다.
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision** - 2인 중 AR 앱 총괄 개발, AI 보조  
+  Unity AR, Computer Vision AI 저시력자 시각 보조 서비스. Image Segmentation으로 저시력자들의 보행 안전을 돕는다.  
+- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598) - 2인 중 XR 총괄 개발  
+  Unity XR, Generative AI 혼합현실(MR) 인공지능 컴패니언. XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 AI 콘텐츠.
+- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4) - 3인 중 APP Frontend 개발  
+  React Native, Spring 프로젝트 팀 매칭 서비스. UI/UX 디자인 컨셉 변경, API 간결화, 클라우드 배포, PUSH 알림, Android 배포 등 Refactoring 진행. 
 - [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4) - 4인  
   React, nodejs 기반 팀 프로젝트. 코딩 타자연습 뮤니티 웹사이트. 4인 중 FullStack 구현을 맡았다.
 - [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP**  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4) - 3인  
@@ -64,7 +64,7 @@ class Introduce{
   Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
 - [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator) - 2인  
   Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
-- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell) - 2인
+- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell) - 2인  
   Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
   
 ## 🌱 My Project
