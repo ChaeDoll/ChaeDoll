@@ -73,20 +73,28 @@ class Introduce{
     - *React Native, Spring - 프로젝트 팀원 매칭 서비스*
     - *프로젝트를 개발하는 학생들을 위한 팀 매칭 앱이다. 해커톤에서 영감을 받아, 3주의 짧은 기간으로 완성에 도전하였다.*
 - [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report**  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)
-    - *총 3인*  
-  Jupyter Notebook 환경에서 Python의 라이브러리를 활용한 데이터 시각화 보고서 3인 팀 프로젝트
-- [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator) - 2인  
-  Android Studio / Kotlin 기술을 활용한 사이드 팀 프로젝트. CockTell APP의 알코올 도수 계산기를 구현한 앱
-- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell) - 2인  
-  Next.js 기반 첫 팀 프로젝트 'CockTell'.  칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공하는 사이트
+    - *총 3인 중 데이터 전처리, 그래프 시각화, 머신러닝 구현*
+    - *Jupyter Notebook, Python Library - 서울시 외국인 인프라 개선을 위한 데이터 보고서*
+    - *서울시 각 지역별 외국인 분포, 방문 목적 등을 분석하여 인프라가 부족한 위치의 새로운 인프라 구축을 제안한다.*
+- [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)
+    - *총 2인 중 APP Client 개발*
+    - *Kotlin, Android Studio - 알코올 도수 계산기 앱*
+    - *칵테일, 소맥 등 마시는 음료의 알코올 도수를 간단히 계산할 수 있다.*
+- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)
+    - *총 2인 중 Web FullStack 개발*
+    - *Next.js, Serverless - 칵테일 레시피 공유 커뮤니티*
+    - *칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공한다.*  
   
 ## 🌱 My Project
 - [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
-- Unity AR Foundation을 활용하여 개발한 증강현실 앱. Image Tracking을 활용한 Interactive AR 포토카드 앱이다.
+    - *C#, Unity AR Foundation - 나만의 AR 포토카드*
+    - *증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.*
 - [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**
-  Unity C# Script를 활용하여 개발한 FPS 총 게임. 제한 시간 내에 오리의 공격을 피해 모두 처치하는 게임이다.
-- [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)  
-  HTML, CSS, Javascript 활용하여 개발한 첫 개인 프로젝트 'My Site'. 나만의 사이트를 제작하였다.
+    - *C#, Unity - 오리 잡기 FPS 총 게임*
+    - *마우스와 키보드를 조작하여 제한 시간 내에 공격을 피하며 모든 오리를 처치하는 게임이다.* 
+- [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)
+    - *HTML, CSS, Javascript - 나만의 홈페이지 My Site*
+    - *첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.* 
   
 ## 📄 Others
  - ### Associate
