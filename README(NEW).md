@@ -86,14 +86,23 @@ this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Un
   
 ## 🌱 My Project (total : 3)
 - [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
-  > - *C#, Unity AR Foundation - 나만의 AR 포토카드*
-  > - *증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.*
+  <details>
+    <summary>자세히 보기</summary>
+    - <i>C#, Unity AR Foundation - 나만의 AR 포토카드</i><br/>
+    - <i>증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.</i>
+  </details> 
 - [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**  [[Link (Github)]](https://github.com/ChaeDoll/XREAL-DevQuest)
-  > - *C#, Unity - 오리 잡기 FPS 총 게임*
-  > - *마우스와 키보드를 조작하여 제한 시간 내에 공격을 피하며 모든 오리를 처치하는 게임이다.* 
+  <details>
+    <summary>자세히 보기</summary>
+    - <i>C#, Unity - 오리 잡기 FPS 총 게임</i><br/>
+    - <i>마우스와 키보드를 조작하여 제한 시간 내에 공격을 피하며 모든 오리를 처치하는 게임이다.</i>
+  </details> 
 - [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)
-  > - *HTML, CSS, Javascript - 나만의 홈페이지 My Site*
-  > - *첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.* 
+  <details>
+    <summary>자세히 보기</summary>
+    - <i>HTML, CSS, Javascript - 나만의 홈페이지 My Site</i><br/>
+    - <i>첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.</i>
+  </details> 
   
 ## 📄 Others
  - ### Associate
