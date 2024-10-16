@@ -19,7 +19,9 @@ this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Un
   
 ## 🌳 Team Project (total : 9)
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
-    - *총 2인 중 AR 앱 총괄 개발, AI 보조*  
+  > 어쩌구저쩌구
+  > 컼커
+  >     - *총 2인 중 AR 앱 총괄 개발, AI 보조*  
     - *Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스*
     - *도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.*  
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
