@@ -7,12 +7,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 
 ## ⚔️ Tech Stack
 #### Language  
-<img src="https://img.shields.io/badge/C Sharp-512BD4?style=for-the-badge&logo=sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-512BD4?style=for-the-badge&logo=sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 - Skill  
   <img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;
 - Tool
