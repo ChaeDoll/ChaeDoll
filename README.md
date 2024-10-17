@@ -26,8 +26,8 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
   
 ## 🌳 Team Project (total : 9)
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
+  Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스
   <details>
-    Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스
     <summary>자세히 보기</summary>
     <ul>
       <li><i>총 2인 중 AR 앱 총괄 개발, AI 보조</i></li>
