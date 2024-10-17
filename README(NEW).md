@@ -7,7 +7,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 
 ## ⚔️ Tech Stack
 - Language  
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=sharp&logoColor=white"/> &nbsp; 
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"/> &nbsp; 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> &nbsp; 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=coffescript&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp; 
