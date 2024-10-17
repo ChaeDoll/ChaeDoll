@@ -28,9 +28,11 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()
   <details>
     <summary>자세히 보기</summary>
-    - <i>총 2인 중 AR 앱 총괄 개발, AI 보조</i><br/>
-    - <i>Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스</i><br/>
-    - <i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다</i>
+    <ul>
+      <li><i>총 2인 중 AR 앱 총괄 개발, AI 보조</i></li>
+      <li><i>Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스</i></li>
+      <li><i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다</i></li>
+    </ul>
   </details>
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
   <details>
