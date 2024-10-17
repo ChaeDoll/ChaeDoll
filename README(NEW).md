@@ -15,12 +15,6 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 #### IDE
 <img src="https://img.shields.io/badge/Visual Studio-855DCD?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Code-31A8FF?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
-this.name = "임채윤";  
-this.role = "XR Reseacher & Developer";  
-this.languages = new String[]{"C#", "Python", "C++", "JavaScript", "Java", "Kotlin", "HTML", "CSS"};  
-this.skills = new String[]{"Unity", "Meta XR", "AR Foundation", "REST API", "Web Frontend", "Web Backend", "Android Client", "Server"};  
-this.tools = new String[]{"Github", "Notion", "Postman", "Figma", "Netlify", "Unity Version Control", "Visual Studio", "VsCode", "IntelliJ"};  
-
 ## 🏅 Awards
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
 - [ 2024. 08 ] &nbsp;**K-MOOC 가상·증강현실분야 성적우수장학금**
