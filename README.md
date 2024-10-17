@@ -71,7 +71,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
   </details>
 - [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)
   <details>
-    <summaryKotlin, Android Studio - 알코올 도수 계산기 앱</summary>
+    <summary>Kotlin, Android Studio - 알코올 도수 계산기 앱</summary>
     - <i>총 2인 중 APP Client 개발</i><br/>
     - <i>칵테일, 소맥 등 마시는 음료의 알코올 도수를 간단히 계산할 수 있다.</i>
   </details>
