@@ -1,17 +1,17 @@
 <img src="./Banner.png" />
 
-안녕하세요. XR(MR/AR) 기술에 관심이 많은 개발자 임채윤입니다.
-현재 명지대학교에 정보통신공학과 4학년으로 재학 중이고, XR 기술을 활용한 개발 및 연구를 진행 중입니다.
-XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시너지를 낼 수 있는 MR(Mixed Reality, 혼합현실) 기술입니다.
-저의 비전은 일상생활에 XR 기술을 결합시켜, 더욱 확장성 있고 효율성 있는 삶을 만드는 것입니다.
+안녕하세요. XR(MR/AR) 기술에 관심이 많은 개발자 임채윤입니다.  
+현재 명지대학교에 정보통신공학과 4학년으로 재학 중이고, XR 기술을 활용한 개발 및 연구를 진행 중입니다.  
+XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시너지를 낼 수 있는 MR(Mixed Reality, 혼합현실) 기술입니다.  
+저의 비전은 일상생활에 XR 기술을 결합시켜, 더욱 확장성 있고 효율성 있는 삶을 만드는 것입니다.  
 
 ## ⚔️ Tech Stack
-- Language
+- Language  
   <img src="https://img.shields.io/badge/C#-239120?style=flat&logo=Csharp&logoColor=white"/> &nbsp; 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> &nbsp; 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp; 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp; 
-- Skill
+- Skill  
   <img src="https://img.shields.io/badge/UNITY-222324?style=for-the-badge&logo=Unity&logoColor=white"/> &nbsp;
 - Tool
 
