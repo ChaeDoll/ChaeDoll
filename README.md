@@ -24,90 +24,78 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 - [ 2022.09 ] &nbsp;조주기능사
 - [ 2021.12 ] &nbsp;양식조리기능사
   
-## 🌳 Team Project (total : 9)
+## 🌳 Team Project
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()  
   <details>
     <summary>Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스</summary>
     <ul>
       <li><i>총 2인 중 AR 앱 총괄 개발, AI 보조</i></li>
-      <li><i>Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스</i></li>
       <li><i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다</i></li>
     </ul>
   </details>
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>Unity XR, Generative AI - 혼합현실(MR) 인공지능 컴패니언</summary>
     - <i>총 2인 중 XR 총괄 개발</i><br/>
-    - <i>Unity XR, Generative AI - 혼합현실(MR) 인공지능 컴패니언</i><br/>
     - <i>XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.</i>
   </details>
 - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>React Native, Spring - 프로젝트 팀원 매칭 서비스</summary>
     - <i>총 3인 중 APP Frontend 개발</i><br/>
-    - <i>React Native, Spring - 프로젝트 팀원 매칭 서비스</i><br/>
     - <i>디자인 컨셉 변경, API 간결화, PUSH 알림, 앱 및 서버 배포 등 Refactoring을 진행한 프로젝트이다.</i>
   </details>
 - [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>React, node.js - 코딩 타자 연습 커뮤니티</summary>
     - <i>총 4인 중 Web FullStack 개발</i><br/>
-    - <i>React, node.js - 코딩 타자 연습 커뮤니티</i><br/>
     - <i>핵심 알고리즘 코드 예제를 타이핑하며 학습하거나 문제를 공유하는 커뮤니티 웹 사이트이다.</i>
   </details>
 - [ 2024.03 - 2024.06 ] &nbsp;**Feel Check APP**  [[Link (Notion)]](https://harmless-music-694.notion.site/APP-2f19aac87d77490cb344d98c512a7816?pvs=4)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>React Native, Spring, Computer Vision AI - 표정 분석 기반 감정 일기 (캘린더)</summary>
     - <i>총 3인 중 APP FullStack 개발</i><br/>
-    - <i>React Native, Spring, Computer Vision AI - 표정 분석 기반 감정 일기 (캘린더)</i><br/>
     - <i>감정을 분석하여 기록하거나, 일기 요약과 한줄평을 제공하는 AI 감정 캘린더이다. 추가로 감정 맞춤형 서비스를 제공한다.</i>
   </details>
 - [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>React Native, Spring - 프로젝트 팀원 매칭 서비스</summary>
     - <i>총 3인 중 APP Frontend 개발</i><br/>
-    - <i>React Native, Spring - 프로젝트 팀원 매칭 서비스</i><br/>
     - <i>프로젝트를 개발하는 학생들을 위한 팀 매칭 앱이다. 해커톤에서 영감을 받아, 3주의 짧은 기간으로 완성에 도전하였다.</i>
   </details>
 - [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report**  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>Jupyter Notebook, Python Library - 서울시 외국인 인프라 개선을 위한 데이터 보고서</summary>
     - <i>총 3인 중 데이터 전처리, 그래프 시각화, 머신러닝 구현</i><br/>
-    - <i>Jupyter Notebook, Python Library - 서울시 외국인 인프라 개선을 위한 데이터 보고서</i><br/>
     - <i>서울시 각 지역별 외국인 분포, 방문 목적 등을 분석하여 인프라가 부족한 위치의 새로운 인프라 구축을 제안한다.</i>
   </details>
 - [ 2023.10 - 2023.11 ] &nbsp;**Alcohol Calculator APP**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-AlcoholCalculator)
   <details>
-    <summary>자세히 보기</summary>
+    <summaryKotlin, Android Studio - 알코올 도수 계산기 앱</summary>
     - <i>총 2인 중 APP Client 개발</i><br/>
-    - <i>Kotlin, Android Studio - 알코올 도수 계산기 앱</i><br/>
     - <i>칵테일, 소맥 등 마시는 음료의 알코올 도수를 간단히 계산할 수 있다.</i>
   </details>
 - [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)
   <details>
-    <summary>자세히 보기</summary>
+    <summary>Next.js, Serverless - 칵테일 레시피 공유 커뮤니티</summary>
     - <i>총 2인 중 Web FullStack 개발</i><br/>
-    - <i>Next.js, Serverless - 칵테일 레시피 공유 커뮤니티</i><br/>
     - <i>칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공한다.</i>
   </details> 
   
-## 🌱 My Project (total : 3)
+## 🌱 My Project
 - [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
   <details>
-    <summary>자세히 보기</summary>
-    - <i>C#, Unity AR Foundation - 나만의 AR 포토카드</i><br/>
+    <summary>C#, Unity AR Foundation - 나만의 AR 포토카드</summary>
     - <i>증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.</i>
   </details> 
 - [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**  [[Link (Github)]](https://github.com/ChaeDoll/XREAL-DevQuest)
   <details>
-    <summary>자세히 보기</summary>
-    - <i>C#, Unity - 오리 잡기 FPS 총 게임</i><br/>
+    <summary>C#, Unity - 오리 잡기 FPS 총 게임</summary>
     - <i>마우스와 키보드를 조작하여 제한 시간 내에 공격을 피하며 모든 오리를 처치하는 게임이다.</i>
   </details> 
 - [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)
   <details>
-    <summary>자세히 보기</summary>
-    - <i>HTML, CSS, Javascript - 나만의 홈페이지 My Site</i><br/>
+    <summary>HTML, CSS, Javascript - 나만의 홈페이지 My Site</summary>
     - <i>첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.</i>
   </details> 
   
