@@ -16,7 +16,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 ## 🏅 Awards
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
 - [ 2024. 08 ] &nbsp;**K-MOOC 가상·증강현실분야 성적우수장학금**
-- [ 2023. 06 ] &nbsp;**이공계 국가 우수 장학생**
+- [ 2023. 06 ] &nbsp;**이공계 국가 우수 장학생 (2년 장학금)**
 
 ## 🪪 Certification
 - [ 2024.06 ] &nbsp;**정보처리기사**
