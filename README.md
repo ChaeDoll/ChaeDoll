@@ -25,12 +25,21 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
+- [ 2024.11 - 2024.12 ] &nbsp;**90˚C (90도씨)** [[Link (Notion)]]()
+  <details>
+    <summary>Unity XR - 가상현실 경험을 활용한 기업 브랜딩 제작 (오설록)</summary>
+    <ul>
+      <li><i>XREAL 7기 주니어 팀 프로젝트(리뎁디)이다. 3주라는 짧은 일정에 맞춰 프로젝트를 고도화 한다.</i></li>
+      <li><i>총 9인(리서치, 데브, 디자인) 중 XR 개발</i></li>
+      <li><i>XR이 갖는 몰입감 넘치는 시청각 경험을 '오설록'이라는 향 제품과 결합하여 브랜딩이 주는 인상을 증폭시킨다.</i></li>
+    </ul>
+  </details>
 - [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()  
   <details>
     <summary>Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스</summary>
     <ul>
       <li><i>총 2인 중 AR 앱 총괄 개발, AI 보조</i></li>
-      <li><i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다</i></li>
+      <li><i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.</i></li>
     </ul>
   </details>
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
