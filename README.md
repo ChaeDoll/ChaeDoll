@@ -25,7 +25,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
-- [ 2024.11 - 2024.12 ] &nbsp;**90˚C (90도씨)** [[Link (Notion)]]()
+- [ 2024.11 - 2024.12 ] &nbsp;**90˚C (90도씨)** [[Link (None)]]()
   <details>
     <summary>Unity XR - 가상현실 경험을 활용한 기업 브랜딩 제작 (오설록)</summary>
     <ul>
@@ -34,7 +34,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
       <li><i>XR이 갖는 몰입감 넘치는 시청각 경험을 '오설록'이라는 향 제품과 결합하여 브랜딩이 주는 인상을 증폭시킨다.</i></li>
     </ul>
   </details>
-- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (Notion)]]()  
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (None)]]()  
   <details>
     <summary>Unity AR, Computer Vision AI - 저시력자 시각 보조 서비스</summary>
     <ul>
