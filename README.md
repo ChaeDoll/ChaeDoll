@@ -92,12 +92,12 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
   </details> 
   
 ## 🌱 My Project
-- [ 2024.11 - 2024.11 ] &nbsp;**XR Eyes**  [[Link (Github)]](https://github.com/ChaeDoll/XREyes-VisualAssistant)
+- [ 2024.11 - 2024.11 ] &nbsp;**XR Eyes**  [[Link (Github)]](https://github.com/ChaeDoll/XREyes-VisualAssistant)  
   <details>
     <summary>C#, Unity Meta XR SDK - 테두리 강조선을 통한 시각장애인 시각보조 서비스</summary>
-    - <i>Meta XR SDK의 Passthrough를 활용하여 Mixed Reality(혼합현실)에서 사물의 외곽을 강조선을 통해 더욱 잘 보이도록 강조해준다.</i>
-    - <i>왼쪽 손목 버튼을 통해 검정색, 빨간색, 초록색, 파란색, 노란색으로 색상을 변경할 수 있다.</i>
-    - <i>추후 색상 반전 보기와 같은 기능도 도입할 예정이다.</i>
+    - <i>Meta XR SDK의 Passthrough를 활용하여 Mixed Reality(혼합현실)에서 사물의 외곽을 강조선을 통해 더욱 잘 보이도록 강조해준다.</i>  
+    - <i>왼쪽 손목 버튼을 통해 검정색, 빨간색, 초록색, 파란색, 노란색으로 색상을 변경할 수 있다.</i>  
+    - <i>추후 색상 반전 보기와 같은 기능도 도입할 예정이다.</i>  
   </details> 
 - [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
   <details>
