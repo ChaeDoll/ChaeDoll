@@ -25,7 +25,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 - [ 2021.12 ] &nbsp;양식조리기능사
   
 ## 🌳 Team Project
-- [ 2024.11 - 2024.12 ] &nbsp;**90˚C (90도씨)** [[Link (None)]]()
+- [ 2024.11 - 2024.12 ] &nbsp;**90˚C (90도씨)** [[Link (GitHub)]](https://github.com/ChaeDoll/90DegreesCelsius)
   <details>
     <summary>Unity XR - 가상현실 경험을 활용한 몰입형 기업 브랜딩 제작 (오설록)</summary>
     <ul>
