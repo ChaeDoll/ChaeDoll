@@ -43,7 +43,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
       <li><i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.</i></li>
     </ul>
   </details>
-- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://tender-octagon-f7f.notion.site/b82a79288fcb47e7929684fe32512598)
+- [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://jasper-sovereign-08a.notion.site/Smart-My-AI-Friend-156bdcdc8d4980df9e24c697008ddc43?pvs=4)
   <details>
     <summary>Unity XR, Generative AI - 혼합현실(MR) 인공지능 컴패니언</summary>
     - <i>총 2인 중 XR 총괄 개발</i><br/>
