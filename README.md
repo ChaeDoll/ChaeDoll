@@ -35,7 +35,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
       <li><i>브랜드 이미지(BI)로 구매를 결정하는 현재의 소비 트렌드 + XR 기술이 가지는 시·청각적 경험 = 기업이 건네고자 하는 이미지를 강렬히 각인시키는 효과</i></li>
     </ul>
   </details>
-- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (None)]]()  
+- [ 2024.10 - 2024.12 ] &nbsp;**White Vision**  [[Link (GitHub)]](https://github.com/ChaeDoll/WhiteVison)  
   <details>
     <summary>Unity XR, Unity Sentis, Computer Vision AI - 저시력자 시각 보조 서비스</summary>
     <ul>
