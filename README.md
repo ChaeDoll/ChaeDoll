@@ -40,7 +40,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
     <summary>Unity XR, Unity Sentis, Computer Vision AI - 저시력자 시각 보조 서비스</summary>
     <ul>
       <li><i>총 2인 중 Unity 앱 총괄 개발, Sentis 딥러닝 프레임워크 활용하여 앱 내에서 AI 모델 추론 및 결과 반영</i></li>
-      <li><i>도로 종류 별 색상 분류, 장애물 알림으로 저시력자들의 보행 안전을 돕는다.</i></li>
+      <li><i>도로 종류 별 색상 분류, 장애물 알림, 윤곽선 강조 기술로 저시력자들의 보행 안전을 돕는다.</i></li>
     </ul>
   </details>
 - [ 2024.07 - 2024.09 ] &nbsp;**Smart My AI Friend (SMAF)**  [[Link (Notion)]](https://jasper-sovereign-08a.notion.site/Smart-My-AI-Friend-156bdcdc8d4980df9e24c697008ddc43?pvs=4)
