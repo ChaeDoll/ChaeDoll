@@ -1,9 +1,10 @@
 <img src="./Banner1.png" />
 
 안녕하세요. XR(MR/AR) 기술에 관심이 많은 개발자 임채윤입니다.  
-현재 명지대학교에 정보통신공학과 4학년으로 재학 중이고, XR 기술을 활용한 개발 및 연구를 진행 중입니다.  
+명지대학교 정보통신공학과 학사 졸업 후, 명지대학교 정보통신공학과 석사과정 1학기로 재학 중입니다.
+현재는 XR 기술 활용을 위해 인공지능 및 사용자 경험(UX)을 개발 및 연구하고 있습니다.  
 XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시너지를 낼 수 있는 MR(Mixed Reality, 혼합현실) 기술입니다.  
-저의 비전은 일상생활에 XR 기술을 결합시켜, 더욱 확장성 있고 효율성 있는 삶을 만드는 것입니다.  
+저의 비전은 우리의 일상생활에 XR 기술을 결합시켜, 더욱 확장성 있고 효율성 있는 삶을 만드는 것입니다.  
 
 <div align='center'>
 <h2>⚔️ Tech Stack ⚔️</h2>
@@ -12,6 +13,10 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Visual Studio-855DCD?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Code-31A8FF?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>  
 </div>
+
+## ✏️ Research
+- [ 2025. 02 ] &nbsp;**CBAM-YOLO11pico: 스마트폰 및 VR/AR 디바이스에서의 실시간 객체 탐지를 위한 초경량 모델 제안** (한국통신학회 동계종합학술발표회)
+- [ 2024. 11 ] &nbsp;**일상 생활에서의 XR·AI 기술 활용을 위한 MR 기반 인공지능 컴패니언 콘텐츠 개발** (한국통신학회 추계종합학술발표회)
 
 ## 🏅 Awards
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
@@ -122,8 +127,8 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
    - 명지대학교 학부 연구생 - DAN Lab. (Data Analysis & Networking)
    - 명지대학교 정보통신공학과 학사 졸업 예정
  - ### Activities & Study
-   - [ ] 2025 한국통신학회 동계종합학술발표회 - 학부논문
-   - [ ] 딥러닝 논문 리뷰 스터디 (9주차)
+   - [ ] 2025 한국통신학회 동계종합학술발표회 - 학부논문 포스터 발표
+   - [ ] 딥러닝 논문 리뷰 스터디 (8주차)
    - [x] 2024 한국통신학회 추계종합학술발표회 - 학부논문 포스터 발표
    - [x] 스마일게이트 Orange Planet Learning Mate 3기 수료
    - [x] 2024 XR 디바이스 아이디어톤 본선 진출
