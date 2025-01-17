@@ -135,6 +135,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 - [ 2025.03 - ing ] 명지대학교 정보통신공학과 석사과정 - DAN Lab. (Data Analysis & Networking)
 - [ 2024.05 - 2025.02 ] 명지대학교 정보통신공학과 학부연구생 - DAN Lab. (Data Analysis & Networking)
 - [ 2019.03 - 2025.02 ] 명지대학교 정보통신공학과 학사과정
+
 ## 📄 Others
  - ### Activities & Study
    - [ ] 2025 한국통신학회 동계종합학술발표회 - 학부논문 포스터 발표
