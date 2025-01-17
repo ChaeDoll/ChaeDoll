@@ -128,14 +128,14 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
     <summary>HTML, CSS, Javascript - 나만의 홈페이지 My Site</summary>
     - <i>첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.</i>
   </details> 
-  
+
+## 👥 Associate
+- [ 2025.03 - ing ] XREAL 8기 데브 총괄
+- [ 2024.09 - ing ] XREAL 7기 데브
+- [ 2025.03 - ing ] 명지대학교 정보통신공학과 석사과정 - DAN Lab. (Data Analysis & Networking)
+- [ 2024.05 - 2025.02 ] 명지대학교 정보통신공학과 학부연구생 - DAN Lab. (Data Analysis & Networking)
+- [ 2019.03 - 2025.02 ] 명지대학교 정보통신공학과 학사과정
 ## 📄 Others
- - ### Associate
-   - [ 2025.03 - ing ] XREAL 8기 데브 총괄
-   - [ 2024.09 - ing ] XREAL 7기 데브
-   - [ 2025.03 - ing ] 명지대학교 정보통신공학과 석사과정 - DAN Lab. (Data Analysis & Networking)
-   - [ 2024.05 - 2025.02 ] 명지대학교 정보통신공학과 학부연구생 - DAN Lab. (Data Analysis & Networking)
-   - [ 2019.03 - 2025.02 ] 명지대학교 정보통신공학과 학사과정
  - ### Activities & Study
    - [ ] 2025 한국통신학회 동계종합학술발표회 - 학부논문 포스터 발표
    - [ ] 딥러닝 논문 리뷰 스터디 (8주차)
