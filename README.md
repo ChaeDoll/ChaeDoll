@@ -155,6 +155,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
  - ### TMI...🤫
    - 제 4회 전국 시각장애인 바리스타 대회 봉사 서포터즈 참가
    - 前 명지대학교 천문사진동아리 AnP 총무
+   - 前 명지대학교 밴드동아리 울림소리 보컬
    - 前 멕시칸 요리점 주방 보조
  - ### My Sites  
   &emsp;&emsp;<a href="https://blog.naver.com/codbs0627" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a> 
