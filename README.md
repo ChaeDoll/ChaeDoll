@@ -26,6 +26,34 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
 -->
 
 ## 🏅 Awards
+- [ 2024. 10 ] &nbsp;ㅈimg src="./Banner1.png" />
+
+안녕하세요. XR(MR/AR) 기술에 관심이 많은 개발자 임채윤입니다.   
+명지대학교 정보통신공학과 학사 졸업 후, 명지대학교 정보통신공학과 석사과정 1학기로 재학 중입니다.  
+현재는 XR 기술 활용을 위해 인공지능 및 사용자 경험(UX)을 개발 및 연구하고 있습니다.   
+XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시너지를 낼 수 있는 MR(Mixed Reality, 혼합현실) 기술입니다.  
+저의 비전은 우리의 일상생활에 XR 기술을 결합시켜, 더욱 확장성 있고 효율성 있는 삶을 만드는 것입니다.  
+
+<div align='center'>
+<h2>⚔️ Tech Stack ⚔️</h2>
+  <img src="https://img.shields.io/badge/C Sharp-512BD4?style=for-the-badge&logo=sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-891B26?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Meta XR SDK-0467DF?style=for-the-badge&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/REST API-FE5F50?style=for-the-badge&logo=mqtt&logoColor=white"/> <img src="https://img.shields.io/badge/Web Frontend-03C4E8?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Web Backend-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Client-34A853?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Server-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Visual Studio-855DCD?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Code-31A8FF?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>  
+</div>
+
+## ✏️ Research
+- [ 2025. 02 ] &nbsp;**CBAM-YOLO11pico: 스마트폰 및 VR/AR 디바이스에서의 실시간 객체 탐지를 위한 초경량 모델 제안**
+  - [학부 논문] 임채윤, 박현희 - 2025 한국통신학회 동계종합학술발표회 인공지능 분야 [[Archive]]()
+- [ 2024. 11 ] &nbsp;**일상 생활에서의 XR·AI 기술 활용을 위한 MR 기반 인공지능 컴패니언 콘텐츠 개발**  
+  - [학부 논문] 임채윤, 장소현, 박현희 - 2024 한국통신학회 추계종합학술발표회 VR/AR 분야 [[Archive]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12035114)  
+
+<!--
+## 🗂️ Patent
+- [ 2025. 02 ] nbsp;**XR 환경에서 Curved Display를 활용한 2D Object Detection 결과 3차원 매핑 기술**
+-->
+
+## 🏅 Awards
 - [ 2024. 10 ] &nbsp;명지대학교 2024년 취업활동계획 실천 공모전 장려상
 - [ 2024. 10 ] &nbsp;**2024 메타버스 개발자 경진대회 장려상** - SMAF(Smart My AI Friend)  [[Link]](https://www.modoogallery.online/chaeso)
 - [ 2024. 08 ] &nbsp;**K-MOOC 가상·증강현실분야 성적우수장학금**
