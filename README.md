@@ -14,7 +14,7 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
   <img src="https://img.shields.io/badge/Visual Studio-855DCD?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Code-31A8FF?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <br><br>
 <details>
-  <summary>Other Skills</summary>
+  <summary><b>Other Skills</b></summary>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-891B26?style=for-the-badge&logo=coffeescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Web Frontend-03C4E8?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Web Backend-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Client-34A853?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Server-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/><br/>
