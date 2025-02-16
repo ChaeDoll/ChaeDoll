@@ -14,6 +14,14 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
   <img src="https://img.shields.io/badge/Visual Studio-855DCD?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Code-31A8FF?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>  
 </div>
 
+## 👥 Associate
+- [ 2025.03 - ing ] &nbsp;**XR·메타버스 연합동아리 XREAL 8기 데브 총괄**
+- [ 2024.09 ] &nbsp;XR·메타버스 연합동아리 XREAL 7기 데브 입부
+- [ 2025.03 ] &nbsp;**명지대학교 정보통신공학과 대학원 석사과정 입학 - DAN Lab. (Data Analysis & Networking)**
+- [ 2025.02 ] &nbsp;**명지대학교 정보통신공학과 학사과정 수석 졸업**
+- [ 2024.05 ] &nbsp;명지대학교 정보통신공학과 학부연구생 - DAN Lab. (Data Analysis & Networking)
+- [ 2019.03 ] &nbsp;**명지대학교 정보통신공학과 학사과정 입학**
+
 ## ✏️ Research
 - [ 2025. 02 ] &nbsp;**CBAM-YOLO11pico: 스마트폰 및 VR/AR 디바이스에서의 실시간 객체 탐지를 위한 초경량 모델 제안**
   - [학부 논문] 임채윤, 박현희 - 2025 한국통신학회 동계종합학술발표회 인공지능 분야 [[Archive]]()
@@ -129,13 +137,6 @@ XR 기술 중, 가장 좋아하는 것은 가상과 현실이 혼합되어 시�
     <summary>HTML, CSS, Javascript - 나만의 홈페이지 My Site</summary>
     - <i>첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.</i>
   </details> 
-
-## 👥 Associate
-- [ 2025.03 - ing ] XREAL 8기 데브 총괄
-- [ 2024.09 - ing ] XREAL 7기 데브
-- [ 2025.03 - ing ] 명지대학교 정보통신공학과 석사과정 - DAN Lab. (Data Analysis & Networking)
-- [ 2024.05 - 2025.02 ] 명지대학교 정보통신공학과 학부연구생 - DAN Lab. (Data Analysis & Networking)
-- [ 2019.03 - 2025.02 ] 명지대학교 정보통신공학과 학사과정
 
 ## 📄 Others
  - ### Activities & Study
