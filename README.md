@@ -182,7 +182,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   &nbsp;<a href="https://cocktellchaesogong.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CockTell Web Site-E61845?style=flat&logo=moo&logoColor=white"/></a>
 - ### Contact  
   📧E-mail : dlacodbs0627@gmail.com  
-  🏫Student E-mail : codbs0627@mju.ac.kr
+  🏫Student E-mail : dlacodbs0627@mju.ac.kr
 - ### MY BAEKJOON STATUS  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlacodbs0627)](https://solved.ac/dlacodbs0627/)
 
