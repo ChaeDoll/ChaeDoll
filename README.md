@@ -79,9 +79,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     - <i>총 2인 중 XR 총괄 개발</i><br/>
     - <i>XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.</i>
   </details>
-<br><br>
-<details>
-  <summary><b>Web & APP</b></summary>
+### Web & APP
   - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
   <details>
     <summary>React Native, Spring - 프로젝트 팀원 매칭 서비스</summary>
@@ -124,8 +122,6 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     - <i>총 2인 중 Web FullStack 개발</i><br/>
     - <i>칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공한다.</i>
   </details> 
-</details>
-
   
 ## 🌱 My Project
 - [ 2025.02 - ing ] &nbsp;**UAV-XR Network with UWB**  [[Link (Github)]](https://github.com/ChaeDoll/UAV-UWBNetwork)
