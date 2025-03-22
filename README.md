@@ -125,11 +125,11 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   </details> 
   
 ## 🌱 My Project
-- [ 2025.02 - ing ] &nbsp;**UAV-XR Network with UWB**  [[Link (Github)]](https://github.com/ChaeDoll/UAV-UWBNetwork)
+- [ 2025.02 - ing ] &nbsp;**Determining the Optimal Location of the UAV Network**  [[Link (Github)]](https://github.com/ChaeDoll/UAV-UWBNetwork)
   <details>
-    <summary>C#, Unity - UAV 환경에서 초광대역(UWB) 통신을 활용한 XR 통신 시뮬레이션</summary>
+    <summary>C#, Unity - 드론(UAV) 네트워크 환경에서 최적의 UAV 위치 결정을 위한 시뮬레이션</summary>
     - <i>현재 연구 진행 중이다.</i><br/>
-    - <i>각 사용자들의 위치를 이용한 드론 위치 자동 결정 알고리즘</i><br/>
+    - <i>각 사용자들의 위치를 이용한 다중 드론 위치 자동 결정 알고리즘</i><br/>
   </details> 
 - [ 2024.11 - 2024.11 ] &nbsp;**XR Eyes**  [[Link (Github)]](https://github.com/ChaeDoll/XREyes-VisualAssistant)  
   <details>
