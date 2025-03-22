@@ -80,7 +80,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     - <i>XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.</i>
   </details>
 ### Web & APP
-  - [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
+- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
   <details>
     <summary>React Native, Spring - 프로젝트 팀원 매칭 서비스</summary>
     - <i>총 3인 중 APP Frontend 개발</i><br/>
