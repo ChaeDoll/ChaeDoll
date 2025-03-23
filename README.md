@@ -143,7 +143,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     <summary>C#, Unity AR Foundation - 나만의 AR 포토카드</summary>
     - <i>증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.</i>
   </details> 
-- [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**  [[Link (Github)]](https://github.com/ChaeDoll/XREAL-DevQuest)
+- [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**  [[Link (Github)]](https://github.com/ChaeDoll/unity-3d-duckshooting)
   <details>
     <summary>C#, Unity - 오리 잡기 FPS 총 게임</summary>
     - <i>마우스와 키보드를 조작하여 제한 시간 내에 공격을 피하며 모든 오리를 처치하는 게임이다.</i>
