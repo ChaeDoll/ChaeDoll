@@ -81,12 +81,6 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     - <i>XR·AI 기술 융합으로 일상 생활에서 자유롭게 사용 가능한 대화형 AI 콘텐츠이다.</i>
   </details>
 ### Web & APP (Others)
-- [ 2024.06 - 2024.08 ] &nbsp;**Myongji Camp APP Refactoring**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
-  <details>
-    <summary>React Native, Spring - 프로젝트 팀원 매칭 서비스</summary>
-    - <i>총 3인 중 APP Frontend 개발</i><br/>
-    - <i>디자인 컨셉 변경, API 간결화, PUSH 알림, 앱 및 서버 배포 등 Refactoring을 진행한 프로젝트이다.</i>
-  </details>
 - [ 2024.04 - 2024.06 ] &nbsp;**Taja Coding Web**  [[Link (Notion)]](https://languid-syringa-3ea.notion.site/fdafef44119b4b159c4423de3d458210?pvs=4)
   <details>
     <summary>React, node.js - 코딩 타자 연습 커뮤니티</summary>
@@ -99,11 +93,14 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     - <i>총 3인 중 APP FullStack 개발</i><br/>
     - <i>감정을 분석하여 기록하거나, 일기 요약과 한줄평을 제공하는 AI 감정 캘린더이다. 추가로 감정 맞춤형 서비스를 제공한다.</i>
   </details>
-- [ 2024.02 - 2024.03 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
+- [ 2024.02 - 2024.08 ] &nbsp;**Myongji Camp APP**  [[Link (Notion)]](https://radial-primrose-72f.notion.site/HOME-4c02f484d3eb49309dd3396e129bb64a?pvs=4)
   <details>
     <summary>React Native, Spring - 프로젝트 팀원 매칭 서비스</summary>
     - <i>총 3인 중 APP Frontend 개발</i><br/>
-    - <i>프로젝트를 개발하는 학생들을 위한 팀 매칭 앱이다. 해커톤에서 영감을 받아, 3주의 짧은 기간으로 완성에 도전하였다.</i>
+    - <i>1차 개발 기간 : 2024.02 - 2024.03</i><br/>
+    - <i>2차 개발 기간 : 2024.06 - 2024.08</i><br/>
+    - <i>프로젝트를 개발하는 학생들을 위한 팀 매칭 앱이다. 해커톤에서 영감을 받아, 3주의 짧은 기간으로 완성에 도전하였다.</i><br/>
+    - <i>2차 개발 기간에는 디자인 컨셉 변경, API 간결화, PUSH 알림, 앱 및 서버 배포 등 Refactoring을 진행하였다.</i>
   </details>
 - [ 2023.11 - 2023.12 ] &nbsp;**Foreigner Infra Report**  [[Link (Github)]](https://github.com/ChaeDoll/TeamProject-ForeignerReport)
   <details>
