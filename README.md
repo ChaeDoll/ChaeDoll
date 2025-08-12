@@ -59,6 +59,14 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   
 ## 🌳 Team Project
 ### VR / AR / MR 
+- [ 2025.06 - 2025.08 ] &nbsp;**감각공작소** [[Link (GitHub)]](https://github.com/ChaeDoll/immersive-unityxr-senseatelier)
+  <details>
+    <summary>Unity XR - 모네의 '인상, 해돋이'를 공감각으로 감상하고 경험하는 인터랙티브 콘텐츠</summary>
+    <ul>
+      <li><i>총 5인(기획 2명, 데브 2명, 디자인 1명) 중 데브팀, XR 개발 팀장</i></li>
+      <li><i>https://youtu.be/kwojRil0k7o?si=NLB-v9I7IPb-l77l</i></li>
+    </ul>
+  </details>
 - [ 2024.11 - 2024.12 ] &nbsp;**90˚C (90도씨)** [[Link (GitHub)]](https://github.com/ChaeDoll/90DegreesCelsius)
   <details>
     <summary>Unity XR - 가상현실 시/청각 경험을 활용한 몰입형 기업 브랜딩 제작 (오설록)</summary>
