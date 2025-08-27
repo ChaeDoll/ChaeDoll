@@ -23,7 +23,6 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 </div>
 
 ## 👥 Associate
-- [ 2025.06 - ing ] &nbsp;LG Aimers 7기
 - [ 2025.03 - ing ] &nbsp;명지대학교 대학원 정보통신공학과 석사과정 - DAN Lab. (Data Analysis & Networking)
 - [ 2025.03 - 2025. 08 ] &nbsp;XR·메타버스 연합동아리 XREAL 8기 총괄단 (Dev Team 총괄)
 - [ 2024.09 - ing ] &nbsp;XR·메타버스 연합동아리 XREAL 7기 (Dev Team)
@@ -164,6 +163,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## 📄 Others
  - ### Activities & Study
+   - [x] LG Aimers 7기 교육 및 온라인 해커톤 수료
    - [x] XREAL 8기 주니어 AR 교육세션 강사 (Unity AR Foundation)
    - [x] 제35회 통신정보 합동학술대회 JCCI 2025 - 구두 논문 발표
    - [x] 2025 한국통신학회 동계종합학술발표회 - 학부논문 포스터 발표
