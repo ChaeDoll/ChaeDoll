@@ -164,6 +164,48 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 ## 📄 Others
  - ### Activities & Study
    - [x] LG Aimers 7기 교육 및 온라인 해커톤 수료
+   - [x] 2025 가상융합서비스 개발자 경진대회 참가 </details>
+- [ 2023.07 - 2023.09 ] &nbsp;**CockTell Project Page**  [[Link (Github)]](https://github.com/ChaeSoGong/TeamProject-Cocktell)
+  <details>
+    <summary>Next.js, Serverless - 칵테일 레시피 공유 커뮤니티</summary>
+    - <i>총 2인 중 Web FullStack 개발</i><br/>
+    - <i>칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공한다.</i>
+  </details> 
+  
+## 🌱 My Project
+- [ 2025.02 - ing ] &nbsp;**Determining the Optimal Location of the UAV Network**  [[Link (Github)]](https://github.com/ChaeDoll/UAV-UWBNetwork)
+  <details>
+    <summary>C#, Unity - 드론(UAV) 네트워크 환경에서 최적의 UAV 위치 결정을 위한 시뮬레이션</summary>
+    - <i>간단히 진행한 미니 프로젝트</i><br/>
+    - <i>각 사용자들의 위치를 이용한 다중 드론 위치 자동 결정 알고리즘</i><br/>
+  </details> 
+- [ 2024.11 - 2024.11 ] &nbsp;**XR Eyes**  [[Link (Github)]](https://github.com/ChaeDoll/XREyes-VisualAssistant)  
+  <details>
+    <summary>C#, Unity Meta XR SDK - 테두리 강조선을 통한 시각장애인 시각보조 서비스</summary>
+    - <i>Meta XR SDK의 Passthrough를 활용하여 Mixed Reality(혼합현실)에서 사물의 외곽을 강조선을 통해 더욱 잘 보이도록 강조해준다.</i><br/>
+    - <i>왼쪽 손목 버튼을 통해 검정색, 빨간색, 초록색, 파란색, 노란색으로 색상을 변경할 수 있다.</i><br/>
+    - <i>추후 색상 반전 보기와 같은 기능도 도입할 예정이다.</i>  
+  </details> 
+- [ 2024.10 - 2024.10 ] &nbsp;**AR SMAF**
+  <details>
+    <summary>C#, Unity AR Foundation - 나만의 AR 포토카드</summary>
+    - <i>증강현실 Image Tracking을 활용하여 포토카드를 인식하면 캐릭터가 나타나고, 터치로 상호작용 할 수 있다.</i>
+  </details> 
+- [ 2024.09 - 2024.09 ] &nbsp;**Duck Shooting**  [[Link (Github)]](https://github.com/ChaeDoll/unity-3d-duckshooting)
+  <details>
+    <summary>C#, Unity - 오리 잡기 FPS 총 게임</summary>
+    - <i>마우스와 키보드를 조작하여 제한 시간 내에 공격을 피하며 모든 오리를 처치하는 게임이다.</i>
+  </details> 
+- [ 2022.07 - 2022.07 ] &nbsp;**My Site**  [[Link (Github)]](https://github.com/ChaeDoll/ChaeDoll/tree/main/page)
+  <details>
+    <summary>HTML, CSS, Javascript - 나만의 홈페이지 My Site</summary>
+    - <i>첫 프로젝트이다. 나에 대한 소개와 활동 내역, 방명록을 작성할 수 있는 사이트이다.</i>
+  </details> 
+
+## 📄 Others
+ - ### Activities & Study
+   - [x] LG Aimers 7기 교육 및 온라인 해커톤 수료
+   - [x] 2025 가상융합서비스 개발자 경진대회 참가
    - [x] XREAL 8기 주니어 AR 교육세션 강사 (Unity AR Foundation)
    - [x] 제35회 통신정보 합동학술대회 JCCI 2025 - 구두 논문 발표
    - [x] 2025 한국통신학회 동계종합학술발표회 - 학부논문 포스터 발표
