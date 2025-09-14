@@ -31,7 +31,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## ✏️ Research
 - [ 2025. 11 ] &nbsp;**Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission**
-  - [구두 발표] Chaeyun, L., Yongho, K., Hyunhee, P., - Int. Conf. on Broadband and Wireless Computing, Communication and Applications (BWCCA 2025)
+  - [구두 발표] Chaeyun Lim, Yongho Kim, Hyunhee Park - Int. Conf. on Broadband and Wireless Computing, Communication and Applications (BWCCA 2025)
 - [ 2025. 09 ] &nbsp;**다축 평면 투영 기반 3D 객체 탐지를 활용한 ROI 보존형 포인트 클라우드 다운샘플링**
   - [구두 발표] 임채윤, 박현희 - 제6회 한국 인공지능 학술대회 (KAIC 2025)
 - [ 2025. 04 ] &nbsp;**Wi-Fi CSI 기반 일인칭 시점에서의 3D 자세 추정 아이디어 제안**
