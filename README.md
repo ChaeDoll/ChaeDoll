@@ -62,8 +62,13 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 - [ 2021.12 ] &nbsp;양식조리기능사
 
 ## 🧪 Research Project
-- [ 2025.03 - 2025.09 ] &nbsp;**임베디드 AI 기반 소형 엣지 디바이스용 가상키패드 개발**
-
+- [ 2025.04 - 2025.10 ] &nbsp;**임베디드 AI 기반 소형 엣지 디바이스용 가상키패드 개발**
+  <details>
+    <summary>기업 용역 연구과제 - 단일 카메라 및 빔 프로젝터 기반 가상 키 생성 및 터치 인식</summary>
+    <ul>
+    </ul>
+  </details>
+  
 ## 🌳 Team Project
 ### VR / AR / MR 
 - [ 2025.06 - 2025.08 ] &nbsp;**감각공작소** [[Link (GitHub)]](https://github.com/ChaeDoll/immersive-unityxr-senseatelier)
