@@ -66,9 +66,9 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   <details>
     <summary>기업 용역 연구과제 - 단일 카메라 및 빔 프로젝터 기반 가상 키 생성 및 터치 인식</summary>
     <ul>
-      <li><i>[[NVIDIA 보드 - 물리 키 입력 제스처 수집 및 가상 키 생성]](https://github.com/ChaeDoll/cv-embeddedai-virtualkeygenerator)</li>
-      <li><i>[[NVIDIA 보드 - 가상 키패드 입력 제스처 및 터치 인식, 테스트 환경]](https://github.com/ChaeDoll/cv-embeddedai-virtualkeypadinterface)</li>
-      <li><i>[[BBB 보드 - 가상 키패드 화면 출력을 위한 CV, 소켓 통신 기반 빔 프로젝터]](https://github.com/ChaeDoll/cv-embeddedai-touchprojector)</li>
+      <li><i>[NVIDIA 보드 - 물리 키 입력 제스처 수집 및 가상 키 생성] - https://github.com/ChaeDoll/cv-embeddedai-virtualkeygenerator</li>
+      <li><i>[NVIDIA 보드 - 가상 키패드 입력 제스처 및 터치 인식, 테스트 환경] - https://github.com/ChaeDoll/cv-embeddedai-virtualkeypadinterface</li>
+      <li><i>[BBB 보드 - 가상 키패드 화면 출력을 위한 CV, 소켓 통신 기반 빔 프로젝터] - https://github.com/ChaeDoll/cv-embeddedai-touchprojector</li>
     </ul>
   </details>
   
