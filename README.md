@@ -74,7 +74,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   
 ## 🌳 Team Project
 ### VR / AR / MR 
-- [ 2025.06 - 2025.08 ] &nbsp;**감각공작소** [[Link (GitHub)]](https://github.com/ChaeDoll/immersive-unityxr-senseatelier)
+- [ 2025.06 - 2025.08 ] &nbsp;**감각공작소** [[Link (Youtube)]](https://www.youtube.com/watch?v=kwojRil0k7o)
   <details>
     <summary>Unity XR - 모네의 '인상, 해돋이'를 공감각으로 감상하고 경험하는 인터랙티브 콘텐츠</summary>
     <ul>
