@@ -180,6 +180,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## 📄 Others
  - ### Activities & Study
+   > **2025**
    - [x] XREAL 9기 주니어 유니티 기초 교육세션 강사
    - [x] 2025 IEEE 802 Plenary (Bangkok, Thailand) 참관
    - [x] The 20th International Conference on Broadband and Wireless Computing, Communication and Applications (BWCCA-2025, Online, Sharjah, United Arab Emirates) - 구두 논문 발표
