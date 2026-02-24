@@ -31,7 +31,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 - [ 2019.03 - 2025. 02 ] &nbsp;명지대학교 정보통신공학과 학사과정
 
 ## ✏️ Research
-- [ 2025. 11 ] &nbsp;**단일 이미지 기반 기하 일관 다중 시점 합성과 생성적 보완을 이용한 데이터 증강** [[Archive]]()
+- [ 2026. 02 ] &nbsp;**단일 이미지 기반 기하 일관 다중 시점 합성과 생성적 보완을 이용한 데이터 증강** [[Archive]]()
   - [구두 발표] 임채윤, 박현희 - 2026 한국통신학회 동계종합학술발표회 해동우수논문
 - [ 2025. 11 ] &nbsp;**Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission** [[Archive]](https://link.springer.com/chapter/10.1007/978-3-032-10347-5_6)
   - [구두 발표] Chaeyun Lim, Yongho Kim, Hyunhee Park - Int. Conf. on Broadband and Wireless Computing, Communication and Applications (BWCCA 2025)
