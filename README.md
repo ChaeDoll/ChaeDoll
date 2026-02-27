@@ -24,8 +24,8 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## 👥 Associate
 - [ 2026.03 - ing ] &nbsp;명지대학교 대학원 인공지능융합학과 석박통합과정 - DAN Lab. (Data Analysis & Networking)
-- [ 2025.03 - 2026.02 ] &nbsp;명지대학교 대학원 인공지능융합학과 석사과정 - DAN Lab. (Data Analysis & Networking)
-- [ 2025.10 - ing ] &nbsp;XR·AI 연합동아리 XREAL 9기 OB (Dev Team)
+- [ 2025.03 - 2026. 02 ] &nbsp;명지대학교 대학원 인공지능융합학과 석사과정 - DAN Lab. (Data Analysis & Networking)
+- [ 2025.10 - 2026. 02 ] &nbsp;XR·AI 연합동아리 XREAL 9기 OB (Dev Team)
 - [ 2025.03 - 2025. 08 ] &nbsp;XR·메타버스 연합동아리 XREAL 8기 총괄단 (Dev Team 총괄)
 - [ 2024.09 - 2024. 02 ] &nbsp;XR·메타버스 연합동아리 XREAL 7기 주니어 (Dev Team)
 - [ 2024.05 - 2025. 02 ] &nbsp;명지대학교 정보통신공학과 학부연구생 - DAN Lab. (Data Analysis & Networking)
