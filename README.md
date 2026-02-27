@@ -150,8 +150,16 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
     - <i>총 2인 중 Web FullStack 개발</i><br/>
     - <i>칵테일 조주에 관심있는 사람들을 위한 다양하고 참신한 칵테일 레시피를 제공한다.</i>
   </details> 
+
   
 ## 🌱 My Project
+- [ 2026.02 ] &nbsp;**Wine Tasting to XR Effect Generator** [[Link (Github)]](https://github.com/ChaeDoll/ml-python-winaryxr)
+  <details>
+    <summary>Python, AI - 와인 테이스팅 결과를 토대로 XR 파티클 이펙트 파라미터 추정 웹사이트</summary>
+    - <i>와인 테이스팅 특성 데이터를 입력하면 머신러닝(Random Forest)이 파티클 효과 파라미터를 예측</i>
+    - <i>예측 결과를 JSON으로 출력해 Unity/XR 환경에서 시각 효과로 활용할 수 있는 웹 앱</i>
+    - <i>Flask와 Python ML 코드를 기반으로 로컬 서버에서 실행 가능하고, 모델 학습 노트북도 포함</i>
+  </details>
 - [ 2025.02 - ing ] &nbsp;**Determining the Optimal Location of the UAV Network**  [[Link (Github)]](https://github.com/ChaeDoll/UAV-UWBNetwork)
   <details>
     <summary>C#, Unity - 드론(UAV) 네트워크 환경에서 최적의 UAV 위치 결정을 위한 시뮬레이션</summary>
