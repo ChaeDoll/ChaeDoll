@@ -33,21 +33,24 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## ✏️ Research
 - [ 2026. 04 ] &nbsp;**동적 QoS 트래픽 환경에서의 IEEE 802.11bn Tail Latency 감소를 위한 Multi-head DQN 기반 적응형 Contention Window 지수 제어**
+  - *Multi-head DQN-Based Adaptive Contention Window Exponent Control for IEEE 802.11bn P95 Latency Reduction in Dynamic QoS Traffic Environments* 
   - [구두 발표] 임채윤, 박현희 - 제 36회 통신정보 합동학술대회 (JCCI 2026)
 - [ 2026. 02 ] &nbsp;**단일 이미지 기반 기하 일관 다중 시점 합성과 생성적 보완을 이용한 데이터 증강**
+  - *Geometry-guided Multi-View Data Augmentation from a Single Image with Generative Completion*
   - [구두 발표] 임채윤, 박현희 - 2026 한국통신학회 동계종합학술발표회 해동우수논문
-- [ 2025. 11 ] &nbsp;**Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission** [[Archive]](https://link.springer.com/chapter/10.1007/978-3-032-10347-5_6)
+- [ 2025. 11 ] &nbsp;***Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission*** [[Archive]](https://link.springer.com/chapter/10.1007/978-3-032-10347-5_6)
   - [구두 발표] Chaeyun Lim, Yongho Kim, Hyunhee Park - Int. Conf. on Broadband and Wireless Computing, Communication and Applications (BWCCA 2025)
 - [ 2025. 09 ] &nbsp;**다축 평면 투영 기반 3D 객체 탐지를 활용한 ROI 보존형 포인트 클라우드 다운샘플링** [[Archive]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12416342)
-  - English: *3D Object Detection based on Multi-Axis Plane Projection for ROI-Preserving Point Cloud Downsampling* 
+  - *3D Object Detection based on Multi-Axis Plane Projection for ROI-Preserving Point Cloud Downsampling* 
   - [구두 발표] 임채윤, 박현희 - 제6회 한국 인공지능 학술대회 (KAIC 2025)
 - [ 2025. 04 ] &nbsp;**Wi-Fi CSI 기반 일인칭 시점에서의 3D 자세 추정 아이디어 제안**
+  - *An Idea Proposal for Egocentric 3D Pose Estimation Using Wi-Fi CSI* 
   - [구두 발표] 임채윤, 박현희 - 제 35회 통신정보 합동학술대회 (JCCI 2025)
 - [ 2025. 02 ] &nbsp;**CBAM-YOLO11pico: 스마트폰 및 VR/AR 디바이스에서의 실시간 객체 탐지를 위한 초경량 모델 제안** [[Archive]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132270)
-  - English: *CBAM-YOLO11pico: On Smartphones and VR/AR Devices Proposing an Ultra-lightweight Model for Real-Time Object Detection*
+  - *CBAM-YOLO11pico: On Smartphones and VR/AR Devices Proposing an Ultra-lightweight Model for Real-Time Object Detection*
   - [학부논문 포스터 발표] 임채윤, 박현희 - 2025 한국통신학회 동계종합학술발표회 인공지능 분야 
 - [ 2024. 11 ] &nbsp;**일상 생활에서의 XR·AI 기술 활용을 위한 MR 기반 인공지능 컴패니언 콘텐츠 개발** [[Archive]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12035114)
-  - English: *Development of MR-based AI Companion Contents for Utilizing XR·AI technology in Daily life*
+  - *Development of MR-based AI Companion Contents for Utilizing XR·AI technology in Daily life*
   - [학부논문 포스터 발표] 임채윤, 장소현, 박현희 - 2024 한국통신학회 추계종합학술발표회 VR/AR 분야 
 
 <!--
