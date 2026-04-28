@@ -39,7 +39,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 - [ 2026. 04 ] &nbsp;**동적 QoS 트래픽 환경에서의 IEEE 802.11bn Tail Latency 감소를 위한 Multi-head DQN 기반 적응형 Contention Window 지수 제어** [Presented]
   - *Multi-head DQN-Based Adaptive Contention Window Exponent Control for IEEE 802.11bn P95 Latency Reduction in Dynamic QoS Traffic Environments* 
   - [구두 발표] 임채윤, 박현희 - 제 36회 통신정보 합동학술대회 (JCCI 2026)
-- [ 2026. 02 ] &nbsp;**단일 이미지 기반 기하 일관 다중 시점 합성과 생성적 보완을 이용한 데이터 증강** [[Published]]()
+- [ 2026. 02 ] &nbsp;**단일 이미지 기반 기하 일관 다중 시점 합성과 생성적 보완을 이용한 데이터 증강** [[Published]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738174)
   - *Geometry-guided Multi-View Data Augmentation from a Single Image with Generative Completion*
   - [구두 발표] 임채윤, 박현희 - 2026 한국통신학회 동계종합학술발표회 해동우수논문
 - [ 2025. 11 ] &nbsp;***Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission*** [[Published]](https://link.springer.com/chapter/10.1007/978-3-032-10347-5_6)
