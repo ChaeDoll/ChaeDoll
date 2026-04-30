@@ -33,8 +33,8 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## ✏️ Research
 ### Journal
-- [ 2026. 04 ] &nbsp;**Adaptive Point Cloud Downsampling Based on 3D ROI Detection for Improved Perceptual Quality** [[Published]](https://ieeexplore.ieee.org/document/11501269) [doi: 10.1109/ACCESS.2026.3689278.]
-  - [**SCIE**] Chaeyun Lim, Seunghyun Park, Hyunhee Park - *IEEE Access* 
+- [ 2026. 04 ] &nbsp;**Adaptive Point Cloud Downsampling Based on 3D ROI Detection for Improved Perceptual Quality** [[Published]](https://ieeexplore.ieee.org/document/11501269)
+  - [**SCIE**] Chaeyun Lim, Seunghyun Park, Hyunhee Park - *IEEE Access* [DOI: 10.1109/ACCESS.2026.3689278.]
 ### Conference
 - [ 2026. 04 ] &nbsp;**동적 QoS 트래픽 환경에서의 IEEE 802.11bn Tail Latency 감소를 위한 Multi-head DQN 기반 적응형 Contention Window 지수 제어** [Presented]
   - *Multi-head DQN-Based Adaptive Contention Window Exponent Control for IEEE 802.11bn P95 Latency Reduction in Dynamic QoS Traffic Environments* 
