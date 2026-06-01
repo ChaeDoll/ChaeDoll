@@ -36,15 +36,17 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 - [ 2026. 04 ] &nbsp;**Adaptive Point Cloud Downsampling Based on 3-D ROI Detection for Improved Perceptual Quality** [[Published]](https://ieeexplore.ieee.org/document/11501269)
   - [**SCIE**] Chaeyun Lim, Seunghyun Park, Hyunhee Park - *IEEE Access*, vol. 15, pp. 68039-68053 [DOI: 10.1109/ACCESS.2026.3689278.]
 ### Conference
-- [ 2026. 07 ] &nbsp;**Baton-FL: UAV Ad Hoc 네트워크에서의 모델 패싱 기반 분산 연합학습** [[Published]]() [[Code]](https://github.com/ChaeDoll/ai-federatedlearning-batonfl)
-  - [구두 발표] 임채윤, 박현희 - 2026 한국통신학회 하계종합학술발표회
+- [ 2026. 09 ] &nbsp;**Chain Federated Learning: Communication-Efficient Serverless FedAvg for Wireless Ad Hoc Networks** 🇯🇵 [[Published]]()
+  - [구두 발표] Chaeyun Lim, Hyunhee Park - Int. Conf. on Network-Based Information Systems (NBiS-2026)
+- [ 2026. 06 ] &nbsp;**Baton-FL: UAV Ad Hoc 네트워크에서의 모델 패싱 기반 분산 연합학습** [[Published]]() [[Code]](https://github.com/ChaeDoll/ai-federatedlearning-batonfl)
+  - [포스터 발표] 임채윤, 박현희 - 2026 한국통신학회 하계종합학술발표회
 - [ 2026. 04 ] &nbsp;**동적 QoS 트래픽 환경에서의 IEEE 802.11bn Tail Latency 감소를 위한 Multi-head DQN 기반 적응형 Contention Window 지수 제어** [Presented]
   - *Multi-head DQN-Based Adaptive Contention Window Exponent Control for IEEE 802.11bn P95 Latency Reduction in Dynamic QoS Traffic Environments* 
   - [구두 발표] 임채윤, 박현희 - 제 36회 통신정보 합동학술대회 (JCCI 2026)
 - [ 2026. 02 ] &nbsp;**단일 이미지 기반 기하 일관 다중 시점 합성과 생성적 보완을 이용한 데이터 증강** [[Published]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738174)
   - *Geometry-guided Multi-View Data Augmentation from a Single Image with Generative Completion*
   - [구두 발표] 임채윤, 박현희 - 2026 한국통신학회 동계종합학술발표회 해동우수논문
-- [ 2025. 11 ] &nbsp;***Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission*** [[Published]](https://link.springer.com/chapter/10.1007/978-3-032-10347-5_6)
+- [ 2025. 11 ] &nbsp;***Adaptive ROI-Aware Point Cloud Downsampling for 3D Media Transmission*** 🇦🇪 [[Published]](https://link.springer.com/chapter/10.1007/978-3-032-10347-5_6)
   - [구두 발표] Chaeyun Lim, Yongho Kim, Hyunhee Park - Int. Conf. on Broadband and Wireless Computing, Communication and Applications (BWCCA 2025)
 - [ 2025. 09 ] &nbsp;**다축 평면 투영 기반 3D 객체 탐지를 활용한 ROI 보존형 포인트 클라우드 다운샘플링** [[Published]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12416342)
   - *3D Object Detection based on Multi-Axis Plane Projection for ROI-Preserving Point Cloud Downsampling* 
