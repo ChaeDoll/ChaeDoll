@@ -41,6 +41,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   - [구두 발표] Chaeyun Lim, Hyunhee Park - Int. Conf. on Network-Based Information Systems (NBiS-2026)
 -->
 - [ 2026. 06 ] &nbsp;**Baton-FL: UAV Ad Hoc 네트워크에서의 모델 패싱 기반 분산 연합학습** [[Published]]() [[Code]](https://github.com/ChaeDoll/ai-federatedlearning-batonfl)
+  - *Baton-FL: Distributed Federated Learning via Model Passing for UAV Ad Hoc Networks*
   - [포스터 발표] 임채윤, 박현희 - 2026 한국통신학회 하계종합학술발표회
 - [ 2026. 04 ] &nbsp;**동적 QoS 트래픽 환경에서의 IEEE 802.11bn Tail Latency 감소를 위한 Multi-head DQN 기반 적응형 Contention Window 지수 제어** [Presented]
   - *Multi-head DQN-Based Adaptive Contention Window Exponent Control for IEEE 802.11bn P95 Latency Reduction in Dynamic QoS Traffic Environments* 
