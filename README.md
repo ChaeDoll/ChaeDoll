@@ -33,13 +33,13 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## ✏️ Research
 ### Journal
+- [ 2026. 09 ] &nbsp;**Disocclusion Ratio as Generation Strength for Object-Centric Multi-View Augmentation from a Single Image** [[Submitted]]()
+  - [**SCIE**] Chaeyun Lim, Sohyeon Jang, Hyunhee Park - ICT Express
 - [ 2026. 04 ] &nbsp;**Adaptive Point Cloud Downsampling Based on 3-D ROI Detection for Improved Perceptual Quality** [[Published]](https://ieeexplore.ieee.org/document/11501269)
   - [**SCIE**] Chaeyun Lim, Seunghyun Park, Hyunhee Park - *IEEE Access*, vol. 15, pp. 68039-68053 [DOI: 10.1109/ACCESS.2026.3689278.]
 ### Conference
-<!--
-- [ 2026. 09 ] &nbsp;**Chain Federated Learning: Communication-Efficient Serverless FedAvg for Wireless Ad Hoc Networks** 🇯🇵 [[Published]]()
+- [ 2026. 09 ] &nbsp;**Chain Federated Learning: Communication-Efficient Serverless FedAvg for Wireless Ad Hoc Networks** 🇯🇵 [[Accepted]]()
   - [구두 발표] Chaeyun Lim, Hyunhee Park - Int. Conf. on Network-Based Information Systems (NBiS-2026)
--->
 - [ 2026. 06 ] &nbsp;**Baton-FL: UAV Ad Hoc 네트워크에서의 모델 패싱 기반 분산 연합학습** [[Published]]() [[Code]](https://github.com/ChaeDoll/ai-federatedlearning-batonfl)
   - *Baton-FL: Distributed Federated Learning via Model Passing for UAV Ad Hoc Networks*
   - [포스터 발표] 임채윤, 박현희 - 2026 한국통신학회 하계종합학술발표회
