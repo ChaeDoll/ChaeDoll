@@ -71,6 +71,17 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 - [ 2025. 02 ] nbsp;**XR 환경에서 Curved Display를 활용한 2D Object Detection 결과 3차원 매핑 기술**
 -->
 
+## 🧪 Research Project
+- [ 2025.04 - 2025.10 ] &nbsp;**임베디드 AI 기반 소형 엣지 디바이스용 가상키패드 개발**
+  <details>
+    <summary>기업 용역 연구과제 - 단일 카메라 및 빔 프로젝터 기반 가상 키 생성 및 터치 인식</summary>
+    <ul>
+      <li><i>[NVIDIA 보드 - 물리 키 입력 제스처 수집 및 가상 키 생성] - https://github.com/ChaeDoll/cv-embeddedai-virtualkeygenerator</li>
+      <li><i>[NVIDIA 보드 - 가상 키패드 입력 제스처 및 터치 인식, 테스트 환경] - https://github.com/ChaeDoll/cv-embeddedai-virtualkeypadinterface</li>
+      <li><i>[BBB 보드 - 가상 키패드 화면 출력을 위한 CV, 소켓 통신 기반 빔 프로젝터] - https://github.com/ChaeDoll/cv-embeddedai-touchprojector</li>
+    </ul>
+  </details>
+
 ## 🏅 Awards
 - [ 2026. 07 ] &nbsp;**경기 RISE G7 (AI분야) IC-PBL+ 경진대회 우수상**
 - [ 2026. 06 ] &nbsp;**이공계 석사 우수 장학생 (2년)**
@@ -89,16 +100,6 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 - [ 2022.09 ] &nbsp;조주기능사
 - [ 2021.12 ] &nbsp;양식조리기능사
 
-## 🧪 Research Project
-- [ 2025.04 - 2025.10 ] &nbsp;**임베디드 AI 기반 소형 엣지 디바이스용 가상키패드 개발**
-  <details>
-    <summary>기업 용역 연구과제 - 단일 카메라 및 빔 프로젝터 기반 가상 키 생성 및 터치 인식</summary>
-    <ul>
-      <li><i>[NVIDIA 보드 - 물리 키 입력 제스처 수집 및 가상 키 생성] - https://github.com/ChaeDoll/cv-embeddedai-virtualkeygenerator</li>
-      <li><i>[NVIDIA 보드 - 가상 키패드 입력 제스처 및 터치 인식, 테스트 환경] - https://github.com/ChaeDoll/cv-embeddedai-virtualkeypadinterface</li>
-      <li><i>[BBB 보드 - 가상 키패드 화면 출력을 위한 CV, 소켓 통신 기반 빔 프로젝터] - https://github.com/ChaeDoll/cv-embeddedai-touchprojector</li>
-    </ul>
-  </details>
 
 ## 💻 Development Project
   
