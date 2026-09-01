@@ -6,7 +6,7 @@
 XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시너지를 낼 수 있는 MR(Mixed Reality, 혼합현실)입니다.  
 저의 비전은 우리의 일상생활에 XR 기술과 AI를 결합시켜, 더욱 확장성 있고 효율성 있는 삶을 만드는 것입니다.  
 
-### Research Interests - Wireless Networking · Distributed AI · Computer Vision · XR
+**Research Interests: Wireless Networking · Distributed AI · Computer Vision · XR**
 
 <div align='center'>
 <h2>⚔️ Tech Stack ⚔️</h2>
