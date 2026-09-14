@@ -35,8 +35,6 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
 
 ## ✏️ Research
 ### Journal
-- [ 2026. 09 ] &nbsp;**Disocclusion Ratio as Generation Strength for Object-Centric Multi-View Augmentation from a Single Image** [[Submitted]]()
-  - [**SCIE**] Chaeyun Lim, Sohyeon Jang, Hyunhee Park - ICT Express
 - [ 2026. 04 ] &nbsp;**Adaptive Point Cloud Downsampling Based on 3-D ROI Detection for Improved Perceptual Quality** [[Published]](https://ieeexplore.ieee.org/document/11501269)
   - [**SCIE**] Chaeyun Lim, Seunghyun Park, Hyunhee Park - *IEEE Access*, vol. 15, pp. 68039-68053 [DOI: 10.1109/ACCESS.2026.3689278.]
 ### Conference
@@ -98,6 +96,7 @@ XR 기술 중 가장 좋아하는 기술은 가상과 현실이 혼합되어 시
   </details>
 
 ## 🏅 Awards  
+- [ 2026. 09 ] &nbsp;**Best Paper Award, The 29th International Conference on Network-Based Information Systems (NBiS-2026)**
 - [ 2026. 07 ] &nbsp;**경기 RISE G7 (AI분야) IC-PBL+ 경진대회 우수상**
 - [ 2026. 06 ] &nbsp;**이공계 석사 우수 장학생 (2년)**
 - [ 2026. 02 ] &nbsp;**2026년 한국통신학회 동계종합학술발표회 해동우수논문상 우수상**
